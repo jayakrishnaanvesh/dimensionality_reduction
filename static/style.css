@@ -1,0 +1,77 @@
+
+.header{
+
+        height: 60px;
+        background:cadetblue;
+        margin-bottom:15px
+}
+.footer{
+
+        height: 60px;
+        background:#aaaaaa;
+        margin-bottom:15px;
+        text-align: center;
+}
+.dashed{
+        stroke-dasharray: 5,5;
+        stroke: #000; 
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+.graph{
+        text-align:center;
+        float: center;       
+}
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+body{
+   margin:0px;     
+}
+.point {
+    fill:steelblue;
+    stroke: #fff;
+}
+
+table {
+   border-collapse: collapse;
+}
+      
+table, th, td {
+   border: 1px solid black;
+}
+
+.path {
+    fill: none;
+    stroke:steelblue;
+    stroke-width: 2;
+}
+  
+.loader {
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid blue;
+        border-bottom: 16px solid blue;
+        width: 30px;
+        height: 30px;
+        -webkit-animation: spin 2s linear infinite;
+        animation: spin 2s linear infinite;
+      }
+      
+      @-webkit-keyframes spin {
+        0% { -webkit-transform: rotate(0deg); }
+        100% { -webkit-transform: rotate(360deg); }
+      }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+
+
+  

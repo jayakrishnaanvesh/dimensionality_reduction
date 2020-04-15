@@ -1,0 +1,996 @@
+Hospital Service Area,Permanent Facility Id,Age Group,Zip Code - 3 digits,Gender,Race,Length of Stay,Type of Admission,CCS Diagnosis Code,APR DRG Code,APR Severity of Illness Code,APR Severity of Illness Description,Emergency Department Indicator,Total Charges,Total Costs
+Long Island,528,30 to 49,115,M,Black/African American,120,Emergency,657,753,2,Moderate,Y,442396.97,148495.96
+Southern Tier,58,70 or Older,137,M,White,80,Elective,96,4,4,Extreme,N,578396.3,200407.81
+Long Island,891,50 to 69,119,F,Black/African American,79,Emergency,659,750,2,Moderate,N,369730.85,72596.92
+Finger Lakes,409,50 to 69,146,M,White,78,Emergency,129,5,4,Extreme,Y,286417.88,96205.09
+Central NY,636,0 to 17,132,F,Other Race,67,Newborn,218,593,3,Major,N,220720.66,100770.91
+New York City,1288,50 to 69,112,F,Black/African American,67,Emergency,238,711,3,Major,Y,495089.09,90234.22
+New York City,1469,30 to 49,104,M,White,65,Emergency,659,750,2,Moderate,Y,233478.46,94510.76
+Long Island,528,30 to 49,115,M,White,62,Emergency,659,750,2,Moderate,Y,221167.09,74351.96
+Western NY,210,50 to 69,142,M,White,58,Emergency,657,753,4,Extreme,N,87625.3,55158.94
+Long Island,528,0 to 17,115,F,White,52,Newborn,218,609,4,Extreme,N,338583.36,148475.81
+Capital Adirond,829,50 to 69,123,M,Black/African American,46,Urgent,50,305,4,Extreme,N,194403.81,59695.4
+New York City,1456,70 or Older,100,M,Other Race,45,Urgent,207,301,3,Major,N,454242.39,174186.95
+Hudson Valley,1046,70 or Older,106,F,White,41,Elective,113,58,2,Moderate,N,120645.02,59893.4
+Hudson Valley,1047,50 to 69,142,F,White,41,Emergency,670,759,3,Major,N,199706.83,44806.22
+New York City,1456,50 to 69,149,F,White,36,Urgent,39,691,4,Extreme,N,470069.99,157970.65
+Southern Tier,58,70 or Older,137,M,White,33,Emergency,122,139,4,Extreme,Y,98904.53,39784.86
+Capital Adirond,848,0 to 17,120,M,Black/African American,32,Newborn,218,614,1,Minor,N,68408.3,106488.19
+New York City,1637,30 to 49,113,F,Black/African American,32,Emergency,51,404,3,Major,Y,200310.51,62085.91
+Western NY,565,30 to 49,140,M,White,28,Elective,661,772,1,Minor,N,40220.06,10240.7
+New York City,1169,50 to 69,104,M,White,28,Emergency,2,710,3,Major,Y,683441.31,161591.81
+Long Island,528,70 or Older,115,M,Other Race,27,Trauma,2,710,4,Extreme,Y,216243.26,107762.15
+Hudson Valley,1046,70 or Older,104,F,Other Race,27,Elective,113,58,3,Major,N,74665.85,37898.4
+Western NY,213,70 or Older,140,F,White,26,Emergency,77,50,4,Extreme,Y,75936.02,40591.06
+Capital Adirond,829,30 to 49,120,M,White,26,Urgent,50,305,3,Major,N,147851.05,43213.83
+New York City,1469,70 or Older,100,F,White,26,Emergency,657,751,4,Extreme,Y,114419.75,48628.69
+Hudson Valley,699,30 to 49,109,M,White,25,Elective,657,753,2,Moderate,N,82109.29,22420.48
+Hudson Valley,1061,30 to 49,105,F,Black/African American,25,Emergency,657,753,1,Minor,N,286880,77299.18
+Southern Tier,42,50 to 69,139,M,White,24,Elective,660,772,2,Moderate,N,33360.8,10629.72
+New York City,1164,30 to 49,104,M,Other Race,24,Emergency,659,750,2,Moderate,Y,36221.72,34618.3
+Long Island,943,70 or Older,117,M,White,23,Emergency,140,950,2,Moderate,Y,218103.96,41858.02
+Western NY,207,30 to 49,142,M,White,22,Elective,113,58,1,Minor,N,70432.61,27909.23
+New York City,1164,30 to 49,104,M,Other Race,21,Elective,661,772,2,Moderate,N,20091.51,15102.41
+New York City,1466,70 or Older,100,F,White,21,Elective,113,58,2,Moderate,N,125132.9,42755.71
+Long Island,896,70 or Older,117,F,White,20,Emergency,159,463,3,Major,Y,181591.46,37739.81
+New York City,1164,30 to 49,104,M,Other Race,20,Elective,661,772,1,Minor,N,19194.16,14371.68
+New York City,1439,30 to 49,112,M,Black/African American,20,Urgent,660,772,2,Moderate,N,81101.69,23945.47
+New York City,1456,18 to 29,100,M,Other Race,20,Elective,657,753,2,Moderate,N,71050.3,35142.53
+New York City,1469,0 to 17,100,M,Black/African American,20,Emergency,651,755,2,Moderate,Y,75124.19,29521.21
+Western NY,207,50 to 69,140,F,White,19,Emergency,138,243,3,Major,Y,69663.09,38971.37
+New York City,1466,50 to 69,142,F,Black/African American,19,Emergency,146,221,3,Major,Y,227687.24,71674.58
+New York City,1469,70 or Older,100,F,White,19,Emergency,2,720,4,Extreme,Y,168722.23,47174.34
+Southern Tier,58,0 to 17,137,M,Other Race,18,Newborn,218,622,1,Minor,N,40923.29,13544.71
+Western NY,213,50 to 69,142,M,White,18,Emergency,38,691,3,Major,Y,112953.83,45649.17
+Western NY,216,18 to 29,140,F,Other Race,18,Urgent,45,695,4,Extreme,N,233548.26,99986.46
+New York City,1288,70 or Older,112,F,Black/African American,18,Emergency,2,720,4,Extreme,Y,187996.52,32972.06
+New York City,1464,18 to 29,104,M,Other Race,18,Emergency,61,662,2,Moderate,Y,179514.11,45003.56
+New York City,1466,18 to 29,100,M,Black/African American,18,Emergency,657,753,2,Moderate,N,68293.75,26848.66
+New York City,3975,30 to 49,104,M,Other Race,18,Emergency,230,308,3,Major,Y,249680.97,76294.55
+New York City,3975,50 to 69,104,F,White,18,Emergency,50,314,3,Major,Y,199023.05,49835.06
+Capital Adirond,5,50 to 69,122,F,White,17,Emergency,130,143,3,Major,Y,106665.95,26955.05
+Central NY,367,70 or Older,136,F,White,17,Elective,131,133,4,Extreme,N,67892.06,19466.25
+Long Island,528,50 to 69,115,F,White,17,Emergency,2,5,3,Major,Y,150182.55,89993.08
+New York City,1456,70 or Older,100,F,Other Race,17,Emergency,50,447,3,Major,Y,167602.63,58414.92
+New York City,1456,50 to 69,104,M,Other Race,17,Urgent,151,283,3,Major,N,124480.46,42134.57
+Western NY,210,30 to 49,142,F,White,16,Emergency,240,842,2,Moderate,Y,50645.94,36898.22
+Western NY,213,70 or Older,140,F,White,16,Urgent,99,194,2,Moderate,N,63294.12,26946.04
+Long Island,885,70 or Older,119,M,White,16,Emergency,653,757,2,Moderate,Y,99524.02,19672.66
+Hudson Valley,1047,50 to 69,107,M,Black/African American,16,Emergency,661,772,2,Moderate,N,88509.22,23269.27
+New York City,1463,70 or Older,100,F,Black/African American,16,Emergency,106,951,4,Extreme,Y,219598.05,68210.77
+New York City,1469,70 or Older,104,F,Other Race,16,Urgent,657,753,2,Moderate,N,56270.87,22771.81
+New York City,1637,70 or Older,113,F,Multi-racial,16,Emergency,129,137,2,Moderate,Y,114343.44,37548.76
+Western NY,207,50 to 69,142,M,White,15,Emergency,109,45,3,Major,Y,89395.8,34261.18
+Western NY,213,70 or Older,142,F,White,15,Emergency,2,710,3,Major,Y,48702.87,27331.19
+Capital Adirond,756,30 to 49,121,F,White,15,Emergency,659,751,2,Moderate,Y,25033.35,12147.18
+Long Island,885,50 to 69,119,M,White,15,Emergency,14,225,3,Major,Y,169398.13,32269.95
+Hudson Valley,1046,70 or Older,106,M,Black/African American,15,Elective,113,58,2,Moderate,N,42365.44,21311.81
+New York City,1456,70 or Older,100,M,Other Race,15,Elective,113,58,1,Minor,N,87214.84,24934.36
+Finger Lakes,409,70 or Older,146,F,Black/African American,14,Emergency,2,720,3,Major,Y,38602.11,15724.67
+Finger Lakes,412,18 to 29,146,M,White,14,Emergency,657,753,1,Minor,Y,22069,13054.4
+Finger Lakes,471,70 or Older,146,F,White,14,Emergency,108,194,3,Major,Y,46992.12,18615.4
+Long Island,528,70 or Older,117,F,White,14,Emergency,2,720,4,Extreme,Y,97838.08,57869.29
+Central NY,630,70 or Older,130,M,White,14,Urgent,101,163,3,Major,N,141267.37,81402.98
+New York City,1169,0 to 17,104,M,Other Race,14,Emergency,657,753,3,Major,Y,139218.86,38065.41
+New York City,1324,70 or Older,112,F,White,14,Emergency,2,720,3,Major,Y,97384.13,16997.36
+New York City,1439,50 to 69,112,F,Black/African American,14,Emergency,226,308,3,Major,Y,118031.76,40227.2
+New York City,1466,30 to 49,100,F,White,14,Elective,661,772,2,Moderate,N,56937,20508.01
+New York City,1466,0 to 17,104,M,Other Race,14,Newborn,218,626,2,Moderate,N,148940.8,65558.72
+New York City,1466,50 to 69,112,F,White,14,Elective,257,860,1,Minor,N,84796.3,28552.23
+New York City,1469,70 or Older,142,M,Other Race,14,Elective,13,220,3,Major,N,350980.51,157113.81
+Western NY,3067,70 or Older,140,F,White,14,Emergency,99,194,3,Major,Y,34472.69,20319.66
+Capital Adirond,146,30 to 49,125,M,White,13,Emergency,14,221,2,Moderate,Y,56265.24,22577.39
+Long Island,896,70 or Older,117,F,White,13,Emergency,122,139,2,Moderate,Y,98592,19347.59
+Long Island,925,70 or Older,117,F,White,13,Emergency,153,222,4,Extreme,N,189336.29,44014.05
+New York City,1306,70 or Older,112,F,White,13,Emergency,230,308,4,Extreme,Y,105337.97,43124.26
+New York City,1324,70 or Older,112,M,White,13,Emergency,157,469,2,Moderate,Y,90993.61,16130.33
+New York City,1456,18 to 29,104,M,Other Race,13,Emergency,2,710,2,Moderate,Y,105010.81,37136.36
+New York City,1469,70 or Older,100,F,White,13,Emergency,239,361,2,Moderate,Y,101539.58,33265.64
+New York City,1637,70 or Older,114,F,White,13,Emergency,199,380,3,Major,Y,79553.92,24313.74
+Capital Adirond,5,70 or Older,120,M,White,12,Emergency,238,206,3,Major,Y,43881.9,14940.6
+Southern Tier,42,50 to 69,130,M,White,12,Elective,257,862,2,Moderate,N,20194.3,6910.93
+Southern Tier,42,70 or Older,137,M,White,12,Emergency,122,137,3,Major,Y,32588.8,16254.14
+Southern Tier,58,50 to 69,138,F,White,12,Emergency,131,133,4,Extreme,Y,69697.99,23014.58
+Western NY,207,18 to 29,142,F,Black/African American,12,Emergency,181,566,3,Major,Y,22584.34,14907
+Western NY,213,70 or Older,142,F,White,12,Elective,143,227,2,Moderate,N,49367.07,26257.24
+Long Island,528,30 to 49,117,M,White,12,Emergency,661,773,2,Moderate,N,77615.89,27499.65
+Capital Adirond,756,18 to 29,121,M,White,12,Emergency,656,758,2,Moderate,Y,20163.3,9823.77
+Capital Adirond,829,50 to 69,123,M,Black/African American,12,Emergency,127,140,3,Major,N,55640.9,14648.29
+Long Island,891,30 to 49,119,M,White,12,Emergency,657,753,2,Moderate,N,61093.85,12538.34
+Long Island,925,30 to 49,117,F,White,12,Emergency,59,663,2,Moderate,Y,131089,21603.88
+Hudson Valley,1046,50 to 69,107,M,Black/African American,12,Elective,113,58,2,Moderate,N,34486.13,17321.2
+Hudson Valley,1047,18 to 29,100,M,Other Race,12,Emergency,657,753,2,Moderate,Y,64442.3,14745.22
+New York City,1169,70 or Older,142,F,Other Race,12,Emergency,128,141,2,Moderate,Y,109968.82,23609.75
+New York City,1306,70 or Older,112,F,Black/African American,12,Emergency,100,190,3,Major,Y,61988.61,19341.55
+New York City,1456,30 to 49,114,F,Other Race,12,Emergency,47,950,3,Major,Y,121202.18,41627.33
+New York City,1464,50 to 69,109,M,Other Race,12,Elective,136,4,3,Major,N,188253.9,65544.08
+New York City,1637,30 to 49,111,M,Other Race,12,Emergency,151,279,4,Extreme,Y,82308.45,25577.18
+Southern Tier,58,0 to 17,137,F,White,11,Newborn,218,622,1,Minor,N,23513.79,7812.44
+Southern Tier,58,70 or Older,137,M,White,11,Emergency,239,384,3,Major,Y,26897.2,12867.42
+Central NY,367,30 to 49,136,F,Other Race,11,Urgent,657,751,3,Major,N,18981,6395.98
+Hudson Valley,699,70 or Older,109,M,White,11,Emergency,100,180,3,Major,Y,117771.27,49242.45
+Hudson Valley,699,70 or Older,127,M,White,11,Emergency,62,661,4,Extreme,Y,85245.42,21507.98
+Capital Adirond,829,70 or Older,123,M,White,11,Emergency,2,710,3,Major,N,56630.59,17507.37
+Capital Adirond,831,70 or Older,121,M,White,11,Elective,113,58,3,Major,N,25485.5,12754.53
+Long Island,891,30 to 49,119,F,Black/African American,11,Emergency,657,753,2,Moderate,Y,57457.8,11935.3
+Long Island,925,50 to 69,117,M,White,11,Emergency,100,161,1,Minor,Y,427411,86666.36
+Long Island,925,50 to 69,117,F,White,11,Emergency,51,424,2,Moderate,Y,111094.94,19074.09
+Hudson Valley,1047,50 to 69,100,F,White,11,Elective,660,772,2,Moderate,N,53290.9,13006.73
+Hudson Valley,1061,70 or Older,104,F,Black/African American,11,Emergency,99,194,2,Moderate,N,151374.12,46729.72
+New York City,1168,0 to 17,104,F,Other Race,11,Newborn,218,626,3,Major,N,163888.73,23009.93
+New York City,1169,30 to 49,104,F,Black/African American,11,Emergency,99,194,2,Moderate,Y,143923.94,43917.93
+New York City,1169,50 to 69,105,F,Other Race,11,Emergency,99,161,2,Moderate,Y,263544.19,78691.09
+New York City,1288,70 or Older,112,F,Black/African American,11,Urgent,153,253,3,Major,N,73618.33,12974.27
+New York City,1456,30 to 49,100,M,Black/African American,11,Emergency,99,182,4,Extreme,Y,107284.13,30718.58
+New York City,1464,0 to 17,105,F,Other Race,11,Emergency,35,21,3,Major,Y,210983.7,98635.13
+New York City,1469,50 to 69,100,M,Black/African American,11,Emergency,242,812,1,Minor,Y,74045.35,20694.21
+New York City,1637,70 or Older,113,F,Other Race,11,Emergency,2,710,4,Extreme,Y,150800.35,53459.26
+Central NY,367,50 to 69,136,F,White,10,Emergency,149,263,3,Major,Y,40402.09,13193.8
+Central NY,367,50 to 69,136,M,White,10,Emergency,146,221,3,Major,Y,41811.75,13741.06
+Central NY,367,70 or Older,136,F,White,10,Emergency,95,58,1,Minor,Y,23551.72,7205.18
+Central NY,598,30 to 49,134,F,Black/African American,10,Emergency,83,53,3,Major,Y,32844.36,16598.31
+Hudson Valley,699,70 or Older,109,M,White,10,Emergency,38,691,3,Major,Y,86360.08,32813.48
+Long Island,896,30 to 49,117,M,White,10,Elective,660,770,1,Minor,N,43084,6876.86
+Hudson Valley,1047,18 to 29,107,F,White,10,Emergency,657,753,2,Moderate,N,52816.2,11819.46
+New York City,1175,70 or Older,107,F,White,10,Elective,15,240,4,Extreme,N,19897.79,10785.92
+New York City,1306,70 or Older,112,F,Black/African American,10,Emergency,149,284,3,Major,Y,63697.46,18663.49
+New York City,1320,30 to 49,112,M,Black/African American,10,Emergency,99,194,3,Major,Y,49589,38130.44
+New York City,1324,70 or Older,112,F,Black/African American,10,Emergency,2,720,2,Moderate,Y,70626.46,12344.09
+New York City,1437,70 or Older,100,F,Other Race,10,Emergency,245,204,2,Moderate,Y,99374.65,24674.77
+New York City,1439,18 to 29,142,M,Black/African American,10,Emergency,5,890,3,Major,Y,129672.75,38315.6
+New York City,1464,30 to 49,100,M,Other Race,10,Urgent,657,753,1,Minor,N,77480.9,17453.77
+New York City,1466,70 or Older,149,M,White,10,Emergency,2,720,3,Major,Y,93515.04,28119.56
+New York City,1637,50 to 69,114,M,Other Race,10,Emergency,99,194,1,Minor,Y,75096.91,28676.58
+New York City,3058,50 to 69,104,F,White,10,Emergency,135,249,3,Major,Y,102501.36,20283.15
+New York City,3058,30 to 49,149,F,Other Race,10,Emergency,151,283,2,Moderate,Y,132898.4,24654.91
+New York City,3975,70 or Older,100,F,Other Race,10,Emergency,131,133,3,Major,N,112475.01,27793.66
+Capital Adirond,5,50 to 69,120,F,White,9,Elective,205,304,3,Major,N,323781.5,125870.73
+Capital Adirond,146,50 to 69,125,M,White,9,Emergency,122,139,3,Major,Y,27190.46,11376.96
+Western NY,207,50 to 69,140,F,White,9,Emergency,2,710,3,Major,Y,48005.92,20765.68
+Finger Lakes,393,50 to 69,144,F,White,9,Emergency,127,140,3,Major,Y,21657.51,10787.29
+Long Island,528,50 to 69,115,M,Other Race,9,Emergency,93,111,2,Moderate,N,55717.32,20186
+Central NY,598,30 to 49,134,F,White,9,Emergency,659,750,1,Minor,Y,17521.45,5620.32
+Central NY,636,50 to 69,130,M,White,9,Elective,32,441,3,Major,N,61916.74,24927.03
+Hudson Valley,699,30 to 49,109,F,Black/African American,9,Emergency,659,750,2,Moderate,Y,29808.22,7870.64
+Capital Adirond,829,50 to 69,123,M,Other Race,9,Emergency,133,142,3,Major,N,41813.6,11080.8
+Long Island,885,50 to 69,117,F,Other Race,9,Emergency,122,139,2,Moderate,Y,62166.7,12172.64
+Hudson Valley,1072,30 to 49,108,M,Black/African American,9,Emergency,107,951,4,Extreme,N,229038.15,69102.35
+New York City,1169,50 to 69,104,M,Other Race,9,Emergency,149,284,3,Major,Y,138344.65,32734.9
+New York City,1306,70 or Older,112,M,White,9,Emergency,122,139,4,Extreme,Y,49429.85,15966.67
+New York City,1324,50 to 69,112,F,Black/African American,9,Elective,203,302,2,Moderate,N,122353.39,29370.73
+New York City,1324,70 or Older,142,M,Other Race,9,Emergency,162,446,2,Moderate,Y,79914.41,17125.49
+New York City,1456,70 or Older,112,M,Other Race,9,Elective,96,163,3,Major,N,127503.67,43031.17
+New York City,1469,18 to 29,100,M,Black/African American,9,Emergency,659,750,2,Moderate,Y,37089.84,14344.11
+New York City,1637,50 to 69,113,F,White,9,Emergency,50,344,3,Major,Y,62435.06,18692.84
+New York City,1637,70 or Older,113,F,White,9,Emergency,201,314,2,Moderate,Y,65272.7,20201.38
+New York City,1637,70 or Older,114,M,Other Race,9,Emergency,237,313,2,Moderate,Y,66076.98,22020.55
+New York City,3058,50 to 69,104,M,Black/African American,9,Emergency,99,194,2,Moderate,Y,83909.33,18195.94
+New York City,3058,70 or Older,104,F,Other Race,9,Emergency,50,420,3,Major,Y,102020.06,21573.32
+Capital Adirond,5,50 to 69,120,M,White,8,Emergency,99,194,2,Moderate,Y,44234.2,15351.74
+Capital Adirond,5,50 to 69,123,M,White,8,Elective,32,441,2,Moderate,N,67313.4,23194.62
+Western NY,207,50 to 69,142,M,Black/African American,8,Emergency,99,192,3,Major,Y,30525.53,15067.82
+Western NY,207,50 to 69,142,F,White,8,Emergency,99,194,3,Major,Y,25134.21,12070.66
+Western NY,207,50 to 69,142,F,White,8,Emergency,109,21,4,Extreme,Y,103663.76,39170.14
+Western NY,207,70 or Older,142,M,Black/African American,8,Urgent,127,140,3,Major,Y,29017.2,14646.35
+Western NY,208,18 to 29,148,F,White,8,Urgent,191,540,2,Moderate,N,39534.35,20461.28
+Western NY,210,70 or Older,142,M,White,8,Emergency,100,190,3,Major,Y,25879.84,17730.88
+Western NY,213,70 or Older,140,M,White,8,Emergency,99,194,3,Major,Y,29330.32,12647
+Western NY,213,50 to 69,147,M,Black/African American,8,Elective,205,304,2,Moderate,N,92432.78,53719.96
+Central NY,367,70 or Older,136,F,White,8,Emergency,2,720,3,Major,Y,27443.34,8643.75
+Finger Lakes,409,70 or Older,146,M,Other Race,8,Emergency,123,113,2,Moderate,Y,22256.71,7666.23
+Long Island,528,18 to 29,117,M,Black/African American,8,Emergency,651,755,2,Moderate,Y,33167.02,11392.28
+Long Island,528,50 to 69,117,F,Black/African American,8,Emergency,138,220,3,Major,N,65066.96,31648.16
+Central NY,630,70 or Older,130,F,White,8,Elective,101,166,2,Moderate,N,95626.2,49256.87
+Capital Adirond,829,50 to 69,123,M,White,8,Emergency,99,194,3,Major,N,41590.13,12878.32
+Long Island,885,50 to 69,117,F,White,8,Emergency,157,469,3,Major,Y,49060.38,10502.5
+Long Island,925,50 to 69,117,M,White,8,Emergency,149,262,2,Moderate,Y,92596.82,17639.19
+Hudson Valley,1047,0 to 17,149,M,White,8,Emergency,657,751,1,Minor,N,42217.23,9475.43
+Hudson Valley,1072,70 or Older,105,F,White,8,Emergency,2,720,3,Major,N,309790.15,68162.41
+New York City,1164,30 to 49,104,M,Black/African American,8,Emergency,659,750,2,Moderate,Y,14976.86,13959.79
+New York City,1169,0 to 17,104,F,Other Race,8,Emergency,128,141,3,Major,Y,115538.2,29506.1
+New York City,1169,70 or Older,104,F,Black/African American,8,Emergency,127,140,3,Major,Y,90726.95,18682.3
+New York City,1169,70 or Older,104,M,Black/African American,8,Emergency,237,192,2,Moderate,Y,169706.73,47634.1
+New York City,1288,50 to 69,112,F,Black/African American,8,Emergency,127,140,4,Extreme,Y,72280.75,12956.45
+New York City,1306,0 to 17,112,M,Black/African American,8,Emergency,61,662,2,Moderate,Y,49629.05,24523.92
+New York City,1324,70 or Older,112,F,White,8,Emergency,2,720,3,Major,Y,67714.07,10993.5
+New York City,1437,70 or Older,100,F,Other Race,8,Emergency,50,420,4,Extreme,Y,86615.73,21604.93
+New York City,1456,30 to 49,100,M,White,8,Emergency,91,80,1,Minor,Y,56216.73,19766.04
+New York City,1456,70 or Older,100,F,White,8,Elective,238,301,2,Moderate,N,97925.17,42799.48
+New York City,1456,70 or Older,113,M,Other Race,8,Elective,11,92,3,Major,N,82647.02,30642.81
+New York City,1464,50 to 69,100,M,Other Race,8,Emergency,660,775,3,Major,Y,75269.69,18515.34
+New York City,1466,70 or Older,113,F,Other Race,8,Urgent,229,315,2,Moderate,N,87675.99,30277.57
+New York City,1637,30 to 49,113,M,Other Race,8,Emergency,109,44,3,Major,Y,106284.8,42062.26
+New York City,1637,70 or Older,113,F,Other Race,8,Emergency,42,221,4,Extreme,Y,74987.54,26273.95
+New York City,1637,70 or Older,114,M,Other Race,8,Emergency,2,720,4,Extreme,Y,61946.38,17873.24
+Western NY,3067,70 or Older,140,F,White,8,Emergency,2,720,2,Moderate,Y,35697.05,16135.54
+Capital Adirond,5,70 or Older,120,F,Black/African American,7,Emergency,44,446,3,Major,Y,55298.35,14637.14
+Southern Tier,58,70 or Older,139,F,White,7,Urgent,106,201,3,Major,Y,20253.22,8648.26
+Western NY,207,50 to 69,141,M,White,7,Emergency,101,166,2,Moderate,Y,85322.2,31159.64
+Western NY,213,50 to 69,140,M,White,7,Urgent,47,401,2,Moderate,N,44248.3,17161.54
+Central NY,367,50 to 69,136,F,White,7,Emergency,127,140,3,Major,Y,40458.26,10500.65
+Long Island,528,50 to 69,115,M,Black/African American,7,Emergency,99,194,3,Major,Y,54367.28,37449.08
+Long Island,528,70 or Older,117,M,White,7,Emergency,123,113,2,Moderate,N,38926.04,14334.49
+Finger Lakes,678,30 to 49,144,F,White,7,Emergency,122,139,3,Major,Y,23038.97,13408.29
+Hudson Valley,699,30 to 49,109,M,White,7,Emergency,83,53,3,Major,Y,44019.58,12025.79
+Hudson Valley,699,50 to 69,125,M,White,7,Emergency,84,54,2,Moderate,Y,51064.34,11946.45
+Capital Adirond,746,30 to 49,130,F,White,7,Elective,199,361,2,Moderate,N,24431.2,12378.27
+Long Island,885,70 or Older,117,F,White,7,Emergency,2,720,3,Major,Y,54746.87,10382
+Long Island,925,30 to 49,117,M,White,7,Emergency,197,383,2,Moderate,Y,39993,7250.22
+Long Island,925,70 or Older,117,F,Black/African American,7,Emergency,128,141,2,Moderate,Y,48425,8684.01
+Long Island,925,70 or Older,117,F,White,7,Emergency,207,308,2,Moderate,Y,105238.05,20928.44
+Hudson Valley,1047,18 to 29,112,F,Other Race,7,Emergency,658,752,2,Moderate,N,42179.44,9439.11
+New York City,1288,70 or Older,112,M,Black/African American,7,Emergency,62,661,3,Major,Y,58537.42,10617.63
+New York City,1306,0 to 17,112,M,Other Race,7,Emergency,246,660,3,Major,Y,35533.94,19997.38
+New York City,1306,50 to 69,112,M,Other Race,7,Emergency,106,201,2,Moderate,Y,46374.6,16851.66
+New York City,1306,50 to 69,112,M,White,7,Emergency,237,952,3,Major,Y,45447.26,13107.33
+New York City,1306,70 or Older,112,M,Black/African American,7,Emergency,238,952,3,Major,Y,51786.35,17524.31
+New York City,1324,70 or Older,112,M,Black/African American,7,Emergency,653,757,1,Minor,Y,57851.05,9647.65
+New York City,1324,70 or Older,112,M,White,7,Emergency,50,197,3,Major,Y,76411.25,16530.36
+New York City,1324,70 or Older,112,F,White,7,Emergency,2,720,3,Major,Y,53797.18,9568.67
+New York City,1437,70 or Older,100,F,Multi-racial,7,Emergency,2,720,3,Major,Y,151818.68,86334.96
+New York City,1439,50 to 69,149,M,Other Race,7,Emergency,205,310,1,Minor,Y,70588.19,25062.97
+New York City,1456,30 to 49,100,F,Other Race,7,Emergency,651,755,2,Moderate,Y,27039.77,12952.98
+New York City,1456,50 to 69,100,F,Other Race,7,Elective,96,192,3,Major,N,74139.57,24477.35
+New York City,1456,70 or Older,100,F,Black/African American,7,Emergency,2,720,3,Major,Y,49868.38,17052.04
+New York City,1456,0 to 17,125,M,White,7,Urgent,58,951,3,Major,N,122229.88,52590.45
+New York City,1464,30 to 49,104,F,Other Race,7,Emergency,103,207,2,Moderate,Y,145723.37,55683.09
+New York City,1469,30 to 49,100,M,Black/African American,7,Emergency,142,225,2,Moderate,Y,68384.73,22189.46
+New York City,1469,50 to 69,100,F,Black/African American,7,Trauma,233,20,2,Moderate,Y,107136.43,34328.87
+New York City,1469,18 to 29,149,F,Other Race,7,Emergency,130,120,2,Moderate,Y,72661.86,26150.03
+New York City,1637,30 to 49,100,M,Black/African American,7,Emergency,197,383,2,Moderate,Y,42535.29,13108.65
+New York City,1637,70 or Older,113,F,Other Race,7,Emergency,4,385,1,Minor,Y,45021.19,13015.99
+New York City,1637,70 or Older,113,M,Other Race,7,Emergency,83,53,3,Major,Y,44971.62,12683.84
+New York City,3058,70 or Older,104,F,Black/African American,7,Emergency,204,351,2,Moderate,Y,54736.81,11766.83
+Western NY,3067,50 to 69,141,F,White,7,Elective,146,221,3,Major,N,44660.47,18931.46
+New York City,3975,70 or Older,104,F,White,7,Emergency,42,136,3,Major,Y,79061.34,19678.89
+Capital Adirond,5,50 to 69,121,M,Black/African American,6,Urgent,108,194,4,Extreme,N,35161.55,11456.21
+Capital Adirond,5,70 or Older,121,M,White,6,Emergency,122,139,3,Major,Y,35447.3,9536.25
+Western NY,39,70 or Older,148,F,White,6,Emergency,122,139,2,Moderate,Y,22542,14031.11
+Southern Tier,58,70 or Older,137,M,White,6,Emergency,55,422,3,Major,Y,18155.04,7741.45
+Southern Tier,58,50 to 69,139,F,White,6,Emergency,99,192,4,Extreme,Y,35538.3,11174.64
+Western NY,207,30 to 49,142,F,Black/African American,6,Elective,237,301,3,Major,N,109080.15,41428.34
+Western NY,207,70 or Older,142,F,White,6,Emergency,109,45,2,Moderate,Y,41008.9,17327.43
+Western NY,207,70 or Older,142,M,White,6,Emergency,118,197,3,Major,Y,18357.81,9495.73
+Western NY,207,18 to 29,148,F,White,6,Urgent,56,131,3,Major,N,24651.19,13897.69
+Western NY,208,0 to 17,142,M,White,6,Emergency,125,138,1,Minor,Y,29103.32,12985.7
+Western NY,216,50 to 69,141,F,Other Race,6,Urgent,122,130,3,Major,N,102395.07,41571.85
+Western NY,218,30 to 49,141,M,White,6,Urgent,157,469,2,Moderate,N,18622.23,8222.68
+Central NY,362,50 to 69,134,F,White,6,Urgent,42,41,1,Minor,N,11579.19,7715.42
+Finger Lakes,409,0 to 17,146,M,White,6,Newborn,218,636,1,Minor,N,9142.88,3966.08
+Finger Lakes,409,30 to 49,146,F,Other Race,6,Elective,183,540,3,Major,N,18936.62,7622.34
+Finger Lakes,471,70 or Older,145,F,Other Race,6,Urgent,237,302,3,Major,N,27028.93,21349.61
+Finger Lakes,471,50 to 69,146,F,White,6,Emergency,154,249,3,Major,Y,20428.75,7385.61
+Long Island,528,70 or Older,115,M,White,6,Emergency,157,469,3,Major,N,37617.89,30582.4
+Western NY,574,30 to 49,142,M,Black/African American,6,Emergency,659,750,2,Moderate,Y,12912.74,6088.95
+Hudson Valley,699,50 to 69,109,M,White,6,Emergency,127,140,4,Extreme,Y,44854.76,19884.71
+Hudson Valley,699,70 or Older,125,M,White,6,Emergency,157,469,3,Major,Y,36665.19,8017.16
+Capital Adirond,829,70 or Older,120,M,White,6,Urgent,108,192,2,Moderate,N,47341.55,9808.44
+Capital Adirond,829,18 to 29,142,F,Other Race,6,Emergency,659,750,1,Minor,N,14300.55,6154.58
+Capital Adirond,831,30 to 49,124,M,White,6,Elective,113,58,2,Moderate,N,15266.15,7667.67
+Long Island,885,30 to 49,117,M,White,6,Emergency,50,314,2,Moderate,Y,54393.12,10823.43
+Long Island,885,70 or Older,117,F,Other Race,6,Elective,205,304,2,Moderate,N,73005.91,14952.17
+Long Island,896,50 to 69,117,M,White,6,Emergency,2,710,3,Major,Y,92908.48,18654.73
+Long Island,896,70 or Older,119,M,White,6,Urgent,127,140,3,Major,N,43357,9328.64
+Long Island,925,18 to 29,117,F,White,6,Emergency,118,197,2,Moderate,Y,51959,9104.9
+Long Island,925,70 or Older,117,M,White,6,Emergency,143,221,2,Moderate,Y,56078.38,11746.42
+Long Island,943,50 to 69,117,M,White,6,Emergency,2,720,3,Major,Y,59558,10161.11
+Long Island,943,70 or Older,117,M,White,6,Emergency,109,44,1,Minor,Y,136448.67,35848.34
+New York City,1169,50 to 69,104,F,Other Race,6,Emergency,129,137,2,Moderate,Y,56952.33,12131.67
+New York City,1293,30 to 49,112,M,White,6,Emergency,152,282,2,Moderate,Y,19018.98,8038.79
+New York City,1306,50 to 69,112,M,White,6,Emergency,95,40,2,Moderate,Y,36216.81,10193.37
+New York City,1306,50 to 69,112,M,Black/African American,6,Emergency,197,383,3,Major,Y,37769.77,11131.59
+New York City,1324,70 or Older,112,F,Black/African American,6,Emergency,157,469,3,Major,Y,59295.59,8170.18
+New York City,1439,50 to 69,100,F,Other Race,6,Emergency,149,263,2,Moderate,Y,67835.82,21347.82
+New York City,1456,50 to 69,100,M,Black/African American,6,Emergency,50,314,3,Major,Y,55984.96,19480.36
+New York City,1456,50 to 69,109,F,White,6,Urgent,96,163,2,Moderate,N,100733.19,36981.85
+New York City,1458,0 to 17,100,F,Other Race,6,Emergency,2,710,3,Major,Y,91203.43,35684.8
+New York City,1458,18 to 29,100,F,White,6,Elective,209,304,2,Moderate,N,214527.28,117681.15
+New York City,1458,0 to 17,110,M,White,6,Emergency,210,346,3,Major,Y,89065.43,25697.5
+New York City,1464,70 or Older,100,F,White,6,Emergency,103,134,3,Major,Y,100622.84,49312.74
+New York City,1464,50 to 69,142,F,Other Race,6,Emergency,5,893,3,Major,Y,70305.68,17871.29
+New York City,1466,18 to 29,100,F,Black/African American,6,Emergency,181,566,2,Moderate,Y,45111.84,9989.06
+New York City,1466,50 to 69,100,F,White,6,Emergency,237,301,2,Moderate,Y,83688.65,28198.99
+New York City,1466,30 to 49,112,M,White,6,Urgent,660,773,2,Moderate,N,26780.38,3457.95
+New York City,1637,70 or Older,112,F,Black/African American,6,Emergency,42,281,2,Moderate,Y,50594.78,14704.58
+New York City,1637,50 to 69,113,M,Other Race,6,Emergency,2,720,3,Major,Y,53841.2,16662.83
+New York City,3058,50 to 69,104,F,White,6,Emergency,160,443,2,Moderate,Y,69889.92,15494.48
+New York City,3058,50 to 69,104,F,Other Race,6,Emergency,50,420,3,Major,Y,60395.6,12047
+New York City,3058,70 or Older,104,F,Other Race,6,Emergency,83,53,3,Major,Y,77751.51,13440.63
+Capital Adirond,5,70 or Older,121,M,White,5,Emergency,238,252,3,Major,Y,58485.65,14746.07
+Capital Adirond,5,50 to 69,122,F,White,5,Emergency,230,308,3,Major,Y,45237.13,14807.59
+Capital Adirond,5,50 to 69,122,F,Black/African American,5,Emergency,99,199,3,Major,Y,32197.5,9627.84
+Southern Tier,42,30 to 49,137,M,White,5,Emergency,657,751,2,Moderate,Y,16690.1,6523.09
+Southern Tier,58,50 to 69,137,M,White,5,Emergency,207,304,3,Major,Y,71519.78,31908.03
+Southern Tier,128,50 to 69,138,F,White,5,Emergency,127,140,2,Moderate,Y,29145.47,10038.55
+Western NY,207,50 to 69,142,M,Other Race,5,Emergency,135,249,1,Minor,Y,15650.14,8086.7
+Western NY,207,70 or Older,142,F,White,5,Emergency,99,194,3,Major,Y,54629.76,20411.35
+Western NY,210,70 or Older,142,M,Black/African American,5,Emergency,101,198,3,Major,Y,17858.29,9726.1
+Western NY,213,70 or Older,140,M,White,5,Emergency,157,469,3,Major,Y,21027.04,9090.52
+Western NY,213,50 to 69,142,M,White,5,Elective,238,850,2,Moderate,N,31888.3,17915.59
+Western NY,213,70 or Older,142,M,White,5,Emergency,244,351,2,Moderate,Y,14995.58,7419.11
+Western NY,213,70 or Older,142,M,White,5,Emergency,108,170,3,Major,Y,44805,23718.35
+Western NY,213,50 to 69,142,F,White,5,Emergency,152,263,3,Major,Y,20672.45,10386.34
+Western NY,216,50 to 69,140,M,White,5,Urgent,122,139,3,Major,N,19456.1,7677.96
+Western NY,218,50 to 69,142,M,Black/African American,5,Emergency,99,194,3,Major,Y,23080.54,7982.81
+Finger Lakes,409,50 to 69,144,F,White,5,Elective,238,305,2,Moderate,N,19176.52,7772.95
+Finger Lakes,409,70 or Older,144,M,White,5,Emergency,226,301,1,Minor,Y,31183.58,12982.07
+Finger Lakes,471,18 to 29,144,F,White,5,Elective,183,540,1,Minor,N,12265.2,11503.33
+Long Island,528,18 to 29,115,F,White,5,Emergency,661,772,2,Moderate,Y,22745.24,8168.54
+Long Island,528,70 or Older,115,F,White,5,Emergency,2,720,2,Moderate,N,29938.67,12657.49
+Western NY,574,70 or Older,143,M,White,5,Urgent,127,140,2,Moderate,Y,19058.58,7554.45
+Central NY,598,50 to 69,134,M,White,5,Emergency,106,201,3,Major,Y,20192.4,10522.96
+Central NY,598,50 to 69,134,F,White,5,Elective,203,302,2,Moderate,N,45165.05,19951.13
+Central NY,636,18 to 29,130,F,White,5,Elective,195,560,2,Moderate,N,14717.33,6859.82
+Central NY,636,30 to 49,130,M,White,5,Emergency,660,775,2,Moderate,Y,10275.13,4722.75
+Central NY,636,70 or Older,132,F,White,5,Emergency,153,241,2,Moderate,Y,16512.22,8158.85
+Finger Lakes,678,50 to 69,144,M,White,5,Emergency,131,133,3,Major,Y,12459.31,6965.46
+Finger Lakes,678,70 or Older,146,M,White,5,Emergency,129,137,3,Major,Y,20844.57,8781.07
+Hudson Valley,708,18 to 29,125,M,White,5,Emergency,661,773,1,Minor,Y,23300.03,3863.68
+Capital Adirond,746,70 or Older,120,F,White,5,Urgent,122,139,2,Moderate,N,18950.67,15504.97
+Capital Adirond,746,70 or Older,133,F,White,5,Emergency,226,301,2,Moderate,Y,33249.76,15412.17
+Capital Adirond,756,30 to 49,121,M,White,5,Emergency,197,383,1,Minor,Y,12835.43,5133.56
+Capital Adirond,756,50 to 69,121,M,White,5,Emergency,197,383,1,Minor,Y,10253.72,5342.01
+Capital Adirond,756,70 or Older,121,F,Other Race,5,Emergency,99,194,3,Major,Y,13942.39,6255.74
+Capital Adirond,756,70 or Older,121,F,Black/African American,5,Urgent,153,241,3,Major,N,22766.75,6747.18
+Capital Adirond,829,70 or Older,121,F,White,5,Urgent,201,344,1,Minor,N,39594.65,11507.9
+Capital Adirond,829,0 to 17,123,M,Other Race,5,Emergency,657,754,1,Minor,N,11291.2,5035.77
+Long Island,885,70 or Older,117,F,White,5,Emergency,95,58,1,Minor,Y,36491.07,6809.53
+Long Island,896,50 to 69,117,M,White,5,Emergency,2,720,3,Major,Y,39666,7938.14
+Long Island,925,50 to 69,117,F,White,5,Emergency,244,811,2,Moderate,Y,48955,10893.46
+Long Island,925,50 to 69,117,M,White,5,Emergency,662,812,4,Extreme,Y,73923,18356.43
+Long Island,925,70 or Older,117,M,White,5,Emergency,237,466,2,Moderate,Y,38337,6885.98
+Long Island,943,30 to 49,117,F,Other Race,5,Emergency,83,53,2,Moderate,Y,55397,7324.41
+Hudson Valley,1061,70 or Older,105,M,Black/African American,5,Emergency,157,469,3,Major,N,42554,16662.5
+Hudson Valley,1099,50 to 69,104,M,Black/African American,5,Elective,661,773,2,Moderate,N,9887.45,3242.63
+New York City,1164,30 to 49,104,M,Black/African American,5,Elective,660,774,2,Moderate,N,8458.06,6136.57
+New York City,1168,18 to 29,104,F,Black/African American,5,Elective,185,540,1,Minor,N,55109.93,13431
+New York City,1169,18 to 29,104,F,Other Race,5,Emergency,159,463,3,Major,Y,42302.09,9177.65
+New York City,1169,50 to 69,104,F,Black/African American,5,Emergency,152,260,2,Moderate,Y,87160.52,23353.65
+New York City,1288,30 to 49,149,M,White,5,Urgent,101,198,2,Moderate,N,38403.89,6990.89
+New York City,1293,50 to 69,112,F,White,5,Emergency,159,463,2,Moderate,Y,14234.45,6419.4
+New York City,1306,70 or Older,112,F,Black/African American,5,Emergency,97,192,3,Major,Y,36551.66,9849.46
+New York City,1320,18 to 29,112,M,Black/African American,5,Emergency,242,812,1,Minor,Y,33030,38841.11
+New York City,1439,70 or Older,100,M,Other Race,5,Emergency,95,52,3,Major,Y,49975.05,14279.71
+New York City,1439,30 to 49,112,M,Black/African American,5,Urgent,660,773,2,Moderate,N,20876.2,7014.68
+New York City,1439,50 to 69,149,F,Other Race,5,Emergency,212,92,2,Moderate,N,1075,529.51
+New York City,1456,0 to 17,100,F,White,5,Emergency,63,660,2,Moderate,Y,48685.03,32098.56
+New York City,1456,70 or Older,100,F,Other Race,5,Emergency,99,194,3,Major,Y,42430.47,13848.58
+New York City,1456,70 or Older,100,F,Black/African American,5,Emergency,211,351,2,Moderate,Y,33769.02,11752.37
+New York City,1456,70 or Older,100,M,Other Race,5,Emergency,50,344,2,Moderate,Y,40991.94,13219.59
+New York City,1456,70 or Older,104,M,Other Race,5,Urgent,100,174,3,Major,N,90764.95,31352.06
+New York City,1456,0 to 17,149,F,Other Race,5,Elective,45,696,2,Moderate,N,43264.15,28341.86
+New York City,1464,30 to 49,100,M,White,5,Emergency,133,952,2,Moderate,Y,75985.35,19101.39
+New York City,1464,70 or Older,112,M,Other Race,5,Emergency,109,45,2,Moderate,N,88724.36,47784.14
+New York City,1466,70 or Older,100,M,Black/African American,5,Elective,203,302,2,Moderate,N,89282.13,31685.24
+New York City,1469,30 to 49,100,M,Black/African American,5,Emergency,102,198,2,Moderate,Y,50965.35,19102.03
+New York City,1469,50 to 69,100,F,Black/African American,5,Emergency,115,197,2,Moderate,Y,42420.88,12092.77
+New York City,1469,50 to 69,100,F,Black/African American,5,Emergency,662,812,3,Major,Y,50597.12,15407.85
+New York City,3058,18 to 29,104,F,Other Race,5,Emergency,185,540,3,Major,N,57745.55,17071.12
+New York City,3058,30 to 49,104,F,Other Race,5,Emergency,195,540,1,Minor,N,53197.03,16643.54
+New York City,3058,70 or Older,104,F,White,5,Emergency,231,341,2,Moderate,Y,44094.28,8426.7
+New York City,3975,50 to 69,100,M,Other Race,5,Emergency,125,144,3,Major,Y,57275.44,14001.25
+New York City,3975,70 or Older,104,M,White,5,Emergency,127,140,3,Major,Y,50814.22,12536.67
+New York City,3975,70 or Older,104,M,White,5,Emergency,127,140,3,Major,Y,63001.15,15819.89
+Capital Adirond,5,50 to 69,121,M,White,4,Emergency,2,720,2,Moderate,Y,16899.8,5591.38
+Capital Adirond,5,50 to 69,121,M,White,4,Urgent,100,161,3,Major,N,187133.8,58197.18
+Capital Adirond,5,70 or Older,122,M,White,4,Emergency,231,347,3,Major,Y,22351.73,6017.71
+Capital Adirond,5,0 to 17,142,F,Black/African American,4,Newborn,218,640,1,Minor,N,6285.5,1458.31
+Southern Tier,58,18 to 29,138,M,White,4,Emergency,144,245,3,Major,Y,18358.76,6269.69
+Southern Tier,58,70 or Older,139,M,White,4,Emergency,109,44,2,Moderate,Y,27863.8,11233.65
+Capital Adirond,146,50 to 69,124,M,White,4,Emergency,64,663,2,Moderate,Y,24331.38,8809.7
+Western NY,207,70 or Older,140,F,White,4,Emergency,143,227,3,Major,Y,25099.14,9373.99
+Western NY,207,30 to 49,142,M,White,4,Emergency,152,263,2,Moderate,Y,29731.29,11000.78
+Western NY,207,50 to 69,142,F,Black/African American,4,Emergency,251,251,2,Moderate,Y,14773.8,5258.18
+Western NY,210,18 to 29,141,M,White,4,Emergency,659,750,2,Moderate,Y,9089.22,4549.19
+Western NY,210,30 to 49,141,M,White,4,Emergency,660,775,2,Moderate,N,7716.73,5606.84
+Western NY,210,30 to 49,147,M,White,4,Emergency,130,951,2,Moderate,Y,10512.61,6107.17
+Western NY,213,0 to 17,142,M,Other Race,4,Newborn,218,639,1,Minor,N,7368.97,2987.07
+Western NY,213,0 to 17,142,F,White,4,Newborn,218,640,2,Moderate,N,5427.2,2156.37
+Western NY,213,50 to 69,142,M,White,4,Emergency,106,201,3,Major,Y,19188.05,7618.15
+Western NY,213,70 or Older,142,F,White,4,Emergency,231,310,2,Moderate,Y,35067.53,18135.39
+Capital Adirond,303,70 or Older,129,F,White,4,Emergency,122,139,2,Moderate,N,12840.88,10749.2
+Central NY,362,70 or Older,133,F,White,4,Emergency,2,720,2,Moderate,N,5862.68,5133.21
+Central NY,367,30 to 49,136,M,White,4,Emergency,657,751,1,Minor,Y,10248.27,3085.84
+Finger Lakes,409,30 to 49,144,F,White,4,Elective,191,540,2,Moderate,N,11921.52,4502.04
+Finger Lakes,471,50 to 69,146,F,White,4,Elective,146,221,1,Minor,N,32445.88,22634.56
+Long Island,528,70 or Older,110,F,White,4,Elective,25,510,2,Moderate,N,43513.18,22603.46
+Long Island,551,50 to 69,117,F,White,4,Emergency,151,950,3,Major,Y,47571.33,9391.7
+Long Island,551,50 to 69,117,M,White,4,Emergency,197,383,2,Moderate,Y,27821.07,5257.5
+Central NY,598,50 to 69,134,M,White,4,Emergency,108,194,1,Minor,Y,11700,5519.62
+Central NY,636,0 to 17,132,M,Black/African American,4,Newborn,218,640,3,Major,N,9983.54,4572.58
+Finger Lakes,678,70 or Older,149,F,White,4,Emergency,2,720,3,Major,Y,21675.38,10031.09
+Hudson Valley,699,30 to 49,109,F,White,4,Urgent,186,540,2,Moderate,N,37224.75,11906.27
+Hudson Valley,699,70 or Older,109,M,White,4,Emergency,99,199,2,Moderate,Y,34866.16,13642.71
+Hudson Valley,699,50 to 69,125,M,White,4,Emergency,657,753,2,Moderate,Y,17099.74,5698.21
+Capital Adirond,739,70 or Older,138,F,White,4,Elective,203,301,1,Minor,N,19459.39,15314.5
+Capital Adirond,756,70 or Older,121,F,White,4,Emergency,127,140,4,Extreme,Y,14265.42,6618.21
+Capital Adirond,756,70 or Older,121,M,White,4,Emergency,50,420,3,Major,Y,19743.1,6279.35
+Hudson Valley,779,70 or Older,109,M,White,4,Emergency,123,113,3,Major,Y,47260.07,12235.19
+Capital Adirond,829,50 to 69,120,F,White,4,Emergency,135,249,2,Moderate,N,17758.48,5189.38
+Capital Adirond,829,18 to 29,123,F,Black/African American,4,Emergency,659,751,1,Minor,N,9298.95,4056.68
+Capital Adirond,829,30 to 49,123,F,White,4,Emergency,197,383,1,Minor,N,15144.85,4645.42
+Capital Adirond,829,70 or Older,123,F,White,4,Elective,203,302,2,Moderate,N,54229.92,14562.14
+Capital Adirond,848,0 to 17,123,M,White,4,Newborn,218,614,3,Major,N,8548.69,11492.3
+Long Island,885,70 or Older,117,M,White,4,Emergency,153,253,2,Moderate,Y,23725.43,5129.17
+Long Island,885,70 or Older,117,F,White,4,Elective,203,301,2,Moderate,N,81462.7,16643.6
+Long Island,885,70 or Older,119,F,White,4,Emergency,157,469,2,Moderate,Y,38187.66,5725.52
+Long Island,896,18 to 29,117,M,White,4,Emergency,661,772,1,Minor,Y,19528,3093.56
+Long Island,896,50 to 69,119,F,White,4,Emergency,660,772,2,Moderate,Y,24602,3488.52
+Long Island,925,0 to 17,117,M,Black/African American,4,Newborn,218,640,1,Minor,N,16138,3290.03
+Long Island,925,30 to 49,117,F,White,4,Elective,189,540,1,Minor,N,40007,11808.38
+Long Island,925,50 to 69,117,M,White,4,Emergency,204,351,1,Minor,Y,28970,5641.25
+Long Island,925,50 to 69,117,M,White,4,Emergency,660,775,1,Minor,Y,22411,4030.05
+Long Island,925,50 to 69,117,F,White,4,Emergency,160,443,1,Minor,Y,38505.12,7238.07
+Long Island,925,50 to 69,117,M,White,4,Emergency,161,465,3,Major,Y,38362.04,6807.71
+Long Island,925,70 or Older,117,F,White,4,Emergency,127,140,1,Minor,Y,30217,5300.55
+Long Island,925,70 or Older,117,F,Black/African American,4,Emergency,245,204,2,Moderate,Y,41367,7342.31
+Long Island,943,70 or Older,117,F,White,4,Emergency,246,722,3,Major,Y,44348,6597.39
+New York City,1169,30 to 49,104,F,Other Race,4,Emergency,197,383,1,Minor,Y,36955.02,8022.9
+New York City,1169,50 to 69,104,F,Other Race,4,Emergency,154,249,1,Minor,Y,53045.07,7983.24
+New York City,1169,50 to 69,104,F,Other Race,4,Emergency,2,720,2,Moderate,Y,34121.38,6756.78
+New York City,1169,70 or Older,104,F,Other Race,4,Emergency,226,301,1,Minor,Y,68915.89,17863.89
+New York City,1169,70 or Older,107,M,Other Race,4,Emergency,109,45,2,Moderate,Y,71894.3,15060.13
+New York City,1175,50 to 69,100,F,White,4,Elective,24,382,3,Major,N,7968,4319.18
+New York City,1288,18 to 29,112,M,Black/African American,4,Emergency,165,951,1,Minor,Y,42929.75,5899.35
+New York City,1288,50 to 69,112,F,Black/African American,4,Elective,203,301,3,Major,N,61408.51,17545.14
+New York City,1288,70 or Older,112,F,White,4,Emergency,2,720,3,Major,Y,28846.29,5440.73
+New York City,1293,30 to 49,112,F,Black/African American,4,Emergency,99,194,2,Moderate,Y,23654.23,10025.08
+New York City,1293,70 or Older,112,F,White,4,Emergency,100,190,3,Major,Y,28828.11,11890.09
+New York City,1306,30 to 49,112,F,Black/African American,4,Emergency,195,540,2,Moderate,Y,26741.03,11996.98
+New York City,1306,70 or Older,112,M,White,4,Emergency,238,207,3,Major,Y,29300.38,8141.09
+New York City,1320,70 or Older,112,F,Black/African American,4,Emergency,153,241,2,Moderate,Y,36824,24272.14
+New York City,1437,30 to 49,104,M,Other Race,4,Emergency,251,251,2,Moderate,Y,40443.68,10151.88
+New York City,1439,50 to 69,100,M,Black/African American,4,Urgent,661,770,1,Minor,N,16630.06,5580.5
+New York City,1439,50 to 69,100,F,Black/African American,4,Emergency,122,137,4,Extreme,Y,42067.65,15513.45
+New York City,1439,50 to 69,104,M,Black/African American,4,Urgent,661,773,2,Moderate,Y,23172.66,7646.4
+New York City,1439,30 to 49,112,M,Black/African American,4,Emergency,109,45,2,Moderate,Y,50207.32,11433.48
+New York City,1439,70 or Older,112,F,Black/African American,4,Elective,237,182,2,Moderate,N,77437.11,28584.7
+New York City,1439,50 to 69,116,F,Other Race,4,Emergency,159,463,3,Major,Y,54933.52,18426.07
+New York City,1456,50 to 69,100,F,Other Race,4,Elective,203,302,2,Moderate,N,57879.04,26738.62
+New York City,1456,70 or Older,100,M,Other Race,4,Emergency,238,813,3,Major,Y,37046.93,11627.52
+New York City,1456,30 to 49,104,F,White,4,Elective,189,540,1,Minor,N,34779.85,13659.84
+New York City,1456,70 or Older,104,F,Black/African American,4,Elective,99,182,3,Major,N,42783.05,17127.35
+New York City,1456,70 or Older,111,F,White,4,Urgent,130,143,2,Moderate,N,30317.62,10280.12
+New York City,1456,0 to 17,115,M,White,4,Newborn,218,640,2,Moderate,N,17538.2,2261.38
+New York City,1456,30 to 49,115,F,White,4,Urgent,97,182,3,Major,N,53384.17,18434.13
+New York City,1456,30 to 49,149,F,White,4,Urgent,144,245,1,Minor,N,30165.63,10316.17
+New York City,1458,0 to 17,149,F,Other Race,4,Newborn,218,640,1,Minor,N,30863.52,5290.42
+New York City,1464,18 to 29,100,F,Other Race,4,Elective,45,696,2,Moderate,N,53915.95,16350.92
+New York City,1464,0 to 17,104,M,Other Race,4,Newborn,218,640,1,Minor,N,23134.49,1365.28
+New York City,1464,18 to 29,104,F,Other Race,4,Emergency,195,540,2,Moderate,Y,46561.8,11930.48
+New York City,1464,0 to 17,105,M,White,4,Newborn,218,640,1,Minor,N,23089.35,1341.8
+New York City,1464,0 to 17,112,F,Black/African American,4,Emergency,44,513,2,Moderate,Y,63523.27,17264.31
+New York City,1464,30 to 49,113,M,Other Race,4,Urgent,125,144,2,Moderate,N,45154.27,10983.32
+New York City,1464,30 to 49,114,F,Other Race,4,Emergency,237,466,3,Major,Y,72181.13,21727.74
+New York City,1466,50 to 69,149,M,Other Race,4,Emergency,109,45,2,Moderate,Y,95048.18,32289.93
+New York City,1466,50 to 69,149,M,Black/African American,4,Urgent,661,773,2,Moderate,N,17798.36,2417.46
+New York City,1469,70 or Older,104,F,Other Race,4,Emergency,226,308,1,Minor,Y,60924.44,20549.07
+New York City,1637,18 to 29,113,F,Other Race,4,Emergency,230,313,1,Minor,Y,58731.87,38093.04
+New York City,1637,30 to 49,113,F,Other Race,4,Emergency,238,791,1,Minor,Y,30279.08,10357.05
+New York City,1637,50 to 69,113,M,White,4,Emergency,2,720,3,Major,Y,27487.18,8315.62
+New York City,1637,70 or Older,113,M,White,4,Emergency,127,140,3,Major,Y,31875.6,10287.25
+New York City,1637,70 or Older,113,M,White,4,Emergency,122,139,3,Major,Y,29473.09,8410.92
+New York City,3058,18 to 29,104,F,Black/African American,4,Elective,195,540,2,Moderate,N,50993.77,14622.7
+New York City,3058,18 to 29,104,F,Black/African American,4,Elective,185,540,3,Major,N,49944.75,14639.67
+New York City,3058,30 to 49,104,F,Other Race,4,Elective,195,560,2,Moderate,N,49029.74,14541.14
+Western NY,3067,0 to 17,140,F,White,4,Newborn,218,639,2,Moderate,N,26884.32,10198.44
+Western NY,3067,0 to 17,142,F,White,4,Newborn,218,626,2,Moderate,N,6702.15,3146.99
+Western NY,3067,30 to 49,142,M,White,4,Elective,146,221,2,Moderate,N,45178.43,15937.33
+Western NY,3067,50 to 69,142,M,White,4,Emergency,153,254,2,Moderate,Y,18366.27,9457.43
+Capital Adirond,4,30 to 49,122,F,Black/African American,3,Emergency,99,194,2,Moderate,Y,11388.55,4812.32
+Capital Adirond,5,70 or Older,120,F,White,3,Emergency,127,140,2,Moderate,Y,10015.9,3786.82
+Capital Adirond,5,30 to 49,121,F,White,3,Elective,183,560,1,Minor,N,12032.6,5908.1
+Capital Adirond,5,70 or Older,121,F,White,3,Emergency,250,249,2,Moderate,Y,13248.85,3915.24
+Capital Adirond,5,30 to 49,122,F,White,3,Elective,195,560,1,Minor,N,10937.75,5909.74
+Capital Adirond,5,50 to 69,122,M,Other Race,3,Elective,50,380,2,Moderate,N,17160.75,5355.12
+Southern Tier,42,70 or Older,138,F,White,3,Emergency,122,139,2,Moderate,Y,10609.08,4390.6
+Southern Tier,42,18 to 29,139,M,Other Race,3,Emergency,657,753,1,Minor,Y,5267.6,3234.71
+Southern Tier,58,0 to 17,137,F,Other Race,3,Newborn,218,640,1,Minor,N,2014.7,638.71
+Southern Tier,58,18 to 29,137,F,White,3,Emergency,238,721,3,Major,Y,21541.2,11201.28
+Southern Tier,58,70 or Older,137,F,White,3,Elective,106,201,1,Minor,N,5111.5,2876.45
+Southern Tier,58,70 or Older,137,M,White,3,Emergency,122,139,2,Moderate,Y,8676.88,4069.33
+Southern Tier,58,50 to 69,138,F,White,3,Emergency,106,201,3,Major,Y,9959.18,3899.76
+Southern Tier,58,0 to 17,139,M,White,3,Newborn,218,640,1,Minor,N,1628.7,591.28
+Southern Tier,58,30 to 49,139,M,White,3,Emergency,103,134,2,Moderate,Y,43487.48,21345.77
+Western NY,207,50 to 69,142,M,White,3,Emergency,237,302,2,Moderate,Y,38662.58,13863.14
+Western NY,207,50 to 69,142,M,White,3,Emergency,130,143,2,Moderate,Y,14844.41,6302.51
+Western NY,207,70 or Older,142,M,Black/African American,3,Emergency,157,469,3,Major,Y,8161.1,4136.1
+Western NY,207,70 or Older,143,F,White,3,Urgent,105,176,3,Major,N,51555.78,22127.51
+Western NY,208,0 to 17,140,F,White,3,Emergency,125,138,1,Minor,Y,7620.55,4456.36
+Western NY,208,0 to 17,142,F,White,3,Newborn,218,639,2,Moderate,N,5064.77,3575.78
+Western NY,208,18 to 29,142,M,Other Race,3,Elective,83,53,3,Major,N,17893.57,10699.57
+Western NY,210,30 to 49,142,F,Black/African American,3,Emergency,197,383,1,Minor,Y,7957.69,4160.09
+Western NY,210,70 or Older,142,M,White,3,Emergency,114,246,3,Major,Y,8732.54,4260.23
+Western NY,213,0 to 17,142,M,White,3,Newborn,218,640,1,Minor,N,4438.23,2002.42
+Western NY,213,50 to 69,142,M,White,3,Emergency,101,175,2,Moderate,Y,58909.7,22175.73
+Western NY,213,50 to 69,142,M,Black/African American,3,Elective,225,301,3,Major,N,27508.08,15357.85
+Western NY,218,30 to 49,141,F,White,3,Urgent,188,540,2,Moderate,N,9950.3,4949.25
+Western NY,218,50 to 69,141,F,White,3,Elective,15,221,1,Minor,N,18469.55,8379.93
+Western NY,218,50 to 69,142,F,Black/African American,3,Emergency,50,420,3,Major,Y,23609.29,6202.85
+Capital Adirond,309,50 to 69,128,F,White,3,Emergency,159,463,2,Moderate,N,4830.58,13091.55
+Central NY,362,70 or Older,133,F,White,3,Emergency,122,139,2,Moderate,N,6343.66,4804.45
+Central NY,367,0 to 17,136,M,Other Race,3,Emergency,122,138,2,Moderate,Y,13742.85,4268.91
+Central NY,367,70 or Older,136,F,White,3,Emergency,237,206,3,Major,Y,21448.72,4537.36
+Finger Lakes,409,30 to 49,146,F,White,3,Elective,189,540,1,Minor,N,8992.85,3647.38
+Finger Lakes,409,50 to 69,146,M,White,3,Elective,29,484,2,Moderate,N,41464.72,18500.68
+Finger Lakes,471,0 to 17,146,M,Black/African American,3,Newborn,218,640,1,Minor,N,3494.1,3118.88
+Finger Lakes,471,70 or Older,146,M,White,3,Emergency,2,720,4,Extreme,Y,14432.36,4943.8
+Finger Lakes,471,70 or Older,146,F,White,3,Elective,146,221,2,Moderate,N,23911.55,16571.47
+Long Island,528,30 to 49,110,F,Other Race,3,Emergency,145,247,1,Minor,N,17768.12,6524.84
+Long Island,528,18 to 29,113,M,White,3,Emergency,661,772,1,Minor,Y,15296.92,4555.72
+Long Island,528,0 to 17,115,F,White,3,Newborn,218,640,1,Minor,N,9228.97,3835.91
+Long Island,528,30 to 49,115,F,White,3,Elective,195,560,1,Minor,N,32711.6,51006.49
+Western NY,565,30 to 49,140,F,White,3,Elective,146,244,1,Minor,N,5393.3,2448.69
+Western NY,565,50 to 69,140,M,White,3,Emergency,121,197,2,Moderate,Y,11190.78,3827.7
+Western NY,574,30 to 49,140,F,White,3,Urgent,195,560,1,Minor,N,10011.1,1671.78
+Western NY,574,18 to 29,141,M,White,3,Emergency,650,755,1,Minor,Y,6441.65,2720.5
+Western NY,574,70 or Older,141,M,White,3,Urgent,109,45,1,Minor,Y,12701.35,5965.64
+Western NY,581,70 or Older,141,M,White,3,Emergency,2,720,3,Major,Y,25030.28,9302.28
+Central NY,598,70 or Older,133,F,White,3,Emergency,108,194,3,Major,Y,17716.65,7882.95
+Central NY,630,70 or Older,130,M,White,3,Urgent,143,227,2,Moderate,N,17897.14,8087.32
+Central NY,630,70 or Older,131,M,White,3,Elective,203,302,2,Moderate,N,28776.76,10029.38
+Central NY,630,70 or Older,131,F,White,3,Elective,203,301,1,Minor,N,28080.57,9233.79
+Central NY,630,70 or Older,135,M,White,3,Elective,203,302,1,Minor,N,28296.94,10662.4
+Central NY,636,70 or Older,131,F,White,3,Urgent,109,45,1,Minor,N,10440.77,4165.92
+Central NY,636,0 to 17,132,M,Other Race,3,Newborn,218,640,1,Minor,N,4919.2,2230.32
+Central NY,636,18 to 29,132,F,White,3,Urgent,195,560,1,Minor,N,8168.41,3846.14
+Central NY,636,0 to 17,136,F,White,3,Newborn,218,640,1,Minor,N,5109,2316.96
+Finger Lakes,678,50 to 69,145,M,White,3,Emergency,157,469,3,Major,Y,6553.97,3050.93
+Hudson Valley,699,70 or Older,109,M,Other Race,3,Emergency,83,53,2,Moderate,Y,24252.27,6623.35
+Hudson Valley,699,70 or Older,109,F,White,3,Elective,203,301,2,Moderate,N,40681.28,13666.64
+Hudson Valley,699,30 to 49,127,M,White,3,Elective,209,304,2,Moderate,N,99455.93,35763.28
+Hudson Valley,704,18 to 29,109,F,White,3,Elective,189,540,1,Minor,N,50363.94,11464.18
+Hudson Valley,708,50 to 69,127,F,White,3,Emergency,149,263,2,Moderate,Y,76077.29,15304.05
+Capital Adirond,739,70 or Older,121,F,White,3,Emergency,62,661,3,Major,Y,8657.41,3505.89
+Capital Adirond,746,70 or Older,121,M,White,3,Emergency,238,813,3,Major,Y,17454.81,11833.4
+Capital Adirond,746,70 or Older,133,M,White,3,Emergency,226,308,2,Moderate,Y,22986.26,10510.1
+Capital Adirond,746,0 to 17,134,M,White,3,Newborn,218,640,1,Minor,N,2150.23,894.25
+Capital Adirond,746,70 or Older,134,M,White,3,Emergency,2,720,1,Minor,Y,8160.38,4344.22
+Capital Adirond,756,18 to 29,120,M,Black/African American,3,Urgent,650,755,1,Minor,N,5183.6,2563.61
+Capital Adirond,756,30 to 49,121,F,White,3,Emergency,651,756,1,Minor,Y,6377.5,2888.92
+Capital Adirond,756,30 to 49,121,F,White,3,Elective,238,317,2,Moderate,N,14525.9,6709.94
+Capital Adirond,756,50 to 69,121,M,Black/African American,3,Emergency,127,140,3,Major,Y,10490.86,4421.57
+Capital Adirond,756,50 to 69,121,M,White,3,Elective,205,304,3,Major,N,33523.3,11949.08
+Capital Adirond,756,50 to 69,122,M,White,3,Elective,203,302,1,Minor,N,29267,11793.43
+Capital Adirond,829,50 to 69,121,M,White,3,Elective,203,302,1,Minor,N,45571.57,12397.27
+Capital Adirond,829,70 or Older,123,M,White,3,Emergency,127,140,3,Major,N,11699.9,3730.37
+Capital Adirond,829,70 or Older,123,F,White,3,Emergency,159,463,2,Moderate,N,12056.45,3824.75
+Capital Adirond,829,70 or Older,149,F,White,3,Emergency,109,45,2,Moderate,N,27438.29,12255.65
+Capital Adirond,848,30 to 49,120,F,Other Race,3,Elective,185,560,1,Minor,N,13328.4,7882.1
+Capital Adirond,848,0 to 17,121,F,Other Race,3,Newborn,218,640,1,Minor,N,4384.7,7679.46
+Capital Adirond,848,30 to 49,122,F,White,3,Elective,182,540,3,Major,N,20615.1,7327.24
+Capital Adirond,848,0 to 17,123,F,Black/African American,3,Newborn,218,640,1,Minor,N,4442.7,7688
+Capital Adirond,848,18 to 29,134,F,White,3,Elective,189,540,1,Minor,N,17212.1,6775.23
+Long Island,885,30 to 49,117,M,Other Race,3,Emergency,142,225,2,Moderate,Y,54751.09,9785.69
+Long Island,885,50 to 69,117,M,White,3,Emergency,42,240,1,Minor,Y,70384.01,8843.63
+Long Island,885,30 to 49,142,M,Black/African American,3,Emergency,50,952,3,Major,Y,66474.63,12411.73
+Long Island,896,0 to 17,117,M,Other Race,3,Newborn,218,640,2,Moderate,N,12216,5429.75
+Long Island,896,0 to 17,117,M,White,3,Newborn,218,640,1,Minor,N,11918,5587.94
+Long Island,925,0 to 17,117,M,White,3,Emergency,197,383,1,Minor,Y,21826,5234.78
+Long Island,925,0 to 17,117,M,White,3,Emergency,145,221,2,Moderate,Y,69876.92,19524.32
+Long Island,925,0 to 17,117,M,White,3,Emergency,142,225,2,Moderate,Y,46825.64,11201.82
+Long Island,925,0 to 17,117,M,White,3,Newborn,218,640,1,Minor,N,12624,2624.65
+Long Island,925,30 to 49,117,F,White,3,Emergency,226,308,2,Moderate,Y,87951.3,15420.24
+Long Island,925,50 to 69,117,F,White,3,Emergency,230,313,2,Moderate,Y,82675.83,17177.75
+Long Island,925,50 to 69,117,M,White,3,Emergency,231,144,3,Major,Y,52600,9827.24
+Long Island,925,50 to 69,117,F,White,3,Emergency,226,308,2,Moderate,Y,114955.91,20962.09
+Long Island,943,0 to 17,117,M,White,3,Newborn,218,640,2,Moderate,N,21532,7202.71
+Long Island,943,50 to 69,117,M,White,3,Emergency,42,41,2,Moderate,Y,27044,4620.73
+Hudson Valley,971,70 or Older,127,F,White,3,Emergency,131,133,2,Moderate,Y,19546.69,5941.17
+New York City,1164,70 or Older,104,M,White,3,Emergency,659,750,2,Moderate,Y,8600.05,7303.25
+New York City,1168,0 to 17,104,M,Other Race,3,Newborn,218,640,1,Minor,N,14707.2,2762.51
+New York City,1168,18 to 29,104,F,Black/African American,3,Elective,183,560,2,Moderate,Y,41613.16,10484.7
+New York City,1168,70 or Older,104,F,Black/African American,3,Emergency,117,204,3,Major,Y,41632.82,8255.98
+New York City,1168,70 or Older,104,M,Black/African American,3,Emergency,102,198,2,Moderate,Y,44857.74,13152.58
+New York City,1168,70 or Older,104,M,Black/African American,3,Elective,237,322,2,Moderate,N,56835.99,12209.41
+New York City,1168,70 or Older,104,M,Other Race,3,Emergency,163,468,3,Major,Y,39920.68,6397.45
+New York City,1169,30 to 49,104,M,Other Race,3,Emergency,102,203,2,Moderate,Y,32979.09,7248.09
+New York City,1169,30 to 49,104,M,Black/African American,3,Emergency,136,114,2,Moderate,Y,47374.29,8745.52
+New York City,1169,50 to 69,104,F,Black/African American,3,Emergency,153,253,3,Major,Y,64555.19,17135.9
+New York City,1175,30 to 49,142,F,Other Race,3,Elective,14,240,2,Moderate,N,6021,3263.78
+New York City,1288,0 to 17,112,M,Black/African American,3,Newborn,218,640,2,Moderate,N,17445.9,2463.03
+New York City,1288,18 to 29,112,F,Black/African American,3,Elective,188,540,1,Minor,N,18144.55,3416.09
+New York City,1288,30 to 49,112,M,Black/African American,3,Emergency,53,423,3,Major,Y,41185.95,6701.24
+New York City,1288,70 or Older,112,F,Black/African American,3,Emergency,50,420,3,Major,Y,29311.64,4718.8
+New York City,1304,0 to 17,112,F,Other Race,3,Newborn,218,640,1,Minor,N,20767.82,3436.72
+New York City,1306,0 to 17,103,F,White,3,Newborn,218,640,2,Moderate,N,11303.43,1843.26
+New York City,1306,0 to 17,112,M,White,3,Newborn,218,639,2,Moderate,N,33742.34,8833.31
+New York City,1306,18 to 29,112,F,Other Race,3,Emergency,193,560,2,Moderate,Y,20373.69,8210.79
+New York City,1306,18 to 29,112,F,White,3,Emergency,192,560,1,Minor,Y,18681.85,7966.51
+New York City,1306,18 to 29,112,F,Black/African American,3,Emergency,191,560,1,Minor,Y,20275.04,8586.64
+New York City,1306,30 to 49,112,M,White,3,Emergency,50,420,2,Moderate,Y,17541.42,5489.24
+New York City,1306,30 to 49,112,F,Black/African American,3,Emergency,195,560,1,Minor,Y,16808.55,4636.02
+New York City,1306,30 to 49,112,F,Black/African American,3,Emergency,189,540,1,Minor,Y,20548.04,10527.54
+New York City,1306,50 to 69,112,M,Black/African American,3,Emergency,59,663,3,Major,Y,24055.16,7800.5
+New York City,1306,50 to 69,112,F,White,3,Emergency,100,174,2,Moderate,Y,114569.82,35408.79
+New York City,1306,70 or Older,112,F,Other Race,3,Emergency,205,347,3,Major,Y,36677.71,7551.36
+New York City,1324,50 to 69,112,F,Other Race,3,Emergency,231,341,1,Minor,Y,22591.99,4130.01
+New York City,1437,18 to 29,112,F,Other Race,3,Emergency,191,560,2,Moderate,Y,28227.93,7268.64
+New York City,1437,30 to 49,112,F,Other Race,3,Emergency,189,540,1,Minor,N,26484.22,6741.87
+New York City,1437,18 to 29,113,M,Other Race,3,Emergency,205,320,1,Minor,Y,45874.82,12833.68
+New York City,1437,0 to 17,142,M,White,3,Newborn,218,640,1,Minor,N,17248.59,991.69
+New York City,1439,50 to 69,100,M,Black/African American,3,Emergency,103,134,2,Moderate,Y,36939.1,11148.46
+New York City,1439,50 to 69,100,M,Black/African American,3,Urgent,660,775,2,Moderate,Y,15806.78,5165.57
+New York City,1439,50 to 69,100,F,Other Race,3,Elective,203,302,1,Minor,N,80460.22,24227.74
+New York City,1439,70 or Older,112,F,Other Race,3,Elective,226,308,1,Minor,N,36901.21,12229.09
+New York City,1439,30 to 49,113,F,White,3,Urgent,189,540,2,Moderate,N,27987.04,9522.75
+New York City,1439,70 or Older,149,M,White,3,Emergency,100,190,2,Moderate,Y,24701.42,7799.36
+New York City,1456,0 to 17,100,F,Other Race,3,Newborn,218,640,1,Minor,N,13148.2,1677.37
+New York City,1456,0 to 17,100,M,Other Race,3,Newborn,218,639,1,Minor,N,29561.2,10220.75
+New York City,1456,18 to 29,100,F,White,3,Elective,183,560,2,Moderate,N,27319.65,10270.68
+New York City,1456,18 to 29,100,F,Other Race,3,Elective,185,540,2,Moderate,N,31680.93,12329.21
+New York City,1456,50 to 69,100,F,Other Race,3,Emergency,197,383,2,Moderate,Y,25171.55,8262.5
+New York City,1456,50 to 69,100,M,White,3,Emergency,149,284,2,Moderate,Y,26206.32,8576.2
+New York City,1456,18 to 29,109,F,White,3,Elective,191,540,1,Minor,N,30279.52,12067.21
+New York City,1456,70 or Older,109,M,White,3,Emergency,99,194,3,Major,Y,27998.45,13363.54
+New York City,1456,0 to 17,112,F,Black/African American,3,Urgent,159,463,2,Moderate,N,20931.08,15266.98
+New York City,1456,18 to 29,112,F,White,3,Elective,183,560,2,Moderate,N,24990.85,9454.69
+New York City,1456,18 to 29,112,F,Other Race,3,Elective,195,560,2,Moderate,N,25734.7,9892.86
+New York City,1456,50 to 69,113,M,Other Race,3,Emergency,2,720,2,Moderate,Y,30171.01,8638.28
+New York City,1456,30 to 49,149,F,White,3,Elective,183,540,1,Minor,N,30631.25,11879.07
+New York City,1458,18 to 29,112,F,White,3,Emergency,193,560,1,Minor,Y,27208,7081.04
+New York City,1464,50 to 69,100,M,Other Race,3,Emergency,50,420,2,Moderate,Y,39059.59,9982.49
+New York City,1464,0 to 17,104,M,Other Race,3,Newborn,218,640,1,Minor,N,13011.53,805.29
+New York City,1464,18 to 29,104,F,White,3,Urgent,191,560,2,Moderate,N,30120.85,7446.83
+New York City,1464,50 to 69,104,M,Other Race,3,Urgent,238,813,1,Minor,N,35669.44,8713.15
+New York City,1464,30 to 49,107,F,Other Race,3,Emergency,183,560,1,Minor,Y,33555.78,8763.11
+New York City,1464,30 to 49,111,F,White,3,Emergency,193,560,2,Moderate,Y,31712.48,7971.62
+New York City,1464,18 to 29,142,M,Other Race,3,Elective,42,120,1,Minor,N,53233.44,22893.04
+New York City,1466,18 to 29,100,F,Black/African American,3,Emergency,185,540,1,Minor,N,31920.69,10007.03
+New York City,1466,30 to 49,100,F,White,3,Emergency,211,351,1,Minor,Y,26940.87,7673.34
+New York City,1466,70 or Older,100,M,White,3,Emergency,95,58,3,Major,Y,27005.39,6955.69
+New York City,1466,0 to 17,104,M,White,3,Newborn,218,640,1,Minor,N,12520.53,5464.9
+New York City,1466,30 to 49,104,M,Black/African American,3,Urgent,660,775,1,Minor,Y,14547.5,2160.97
+New York City,1466,50 to 69,104,F,Black/African American,3,Elective,203,302,1,Minor,N,63213.75,23134.83
+New York City,1469,50 to 69,100,F,Black/African American,3,Emergency,108,194,3,Major,Y,27317.3,9187.57
+New York City,1469,50 to 69,100,M,White,3,Emergency,661,816,3,Major,Y,34858.97,10596.42
+New York City,1637,50 to 69,111,F,White,3,Emergency,153,253,1,Minor,Y,26510.46,9253.87
+New York City,1637,30 to 49,113,F,Other Race,3,Elective,189,540,1,Minor,N,24665.75,8537.11
+New York City,1637,30 to 49,113,F,Other Race,3,Emergency,146,244,1,Minor,Y,22696.43,6097.94
+New York City,3058,50 to 69,104,F,Black/African American,3,Emergency,245,204,1,Minor,Y,37697.54,10842.42
+New York City,3058,18 to 29,105,F,White,3,Elective,183,560,3,Major,N,41938.35,11253.22
+Western NY,3067,0 to 17,140,M,White,3,Newborn,218,633,1,Minor,N,5263.03,2467.76
+Western NY,3067,70 or Older,142,F,White,3,Emergency,131,133,2,Moderate,Y,14357.78,6121.69
+Western NY,3067,70 or Older,142,F,White,3,Emergency,105,171,2,Moderate,Y,32446.5,13444.5
+New York City,3975,0 to 17,100,M,Other Race,3,Newborn,218,640,2,Moderate,N,17292,1014.27
+New York City,3975,18 to 29,100,F,White,3,Emergency,193,560,1,Minor,N,35091.16,8945.45
+Capital Adirond,4,50 to 69,122,F,Black/African American,2,Emergency,127,140,1,Minor,Y,6533.38,3581.12
+Capital Adirond,5,30 to 49,120,M,White,2,Emergency,106,201,2,Moderate,Y,14142.4,4223.89
+Capital Adirond,5,50 to 69,121,F,White,2,Emergency,106,201,2,Moderate,Y,17633.75,4558.15
+Capital Adirond,5,50 to 69,121,M,White,2,Elective,143,228,2,Moderate,N,42440.6,12987.34
+Capital Adirond,5,70 or Older,121,F,White,2,Emergency,135,249,3,Major,Y,15683.75,3277.2
+Capital Adirond,5,0 to 17,122,F,White,2,Newborn,218,640,1,Minor,N,3485.95,760.34
+Capital Adirond,5,30 to 49,122,F,White,2,Emergency,660,775,2,Moderate,Y,5867.05,1959.42
+Capital Adirond,5,70 or Older,122,M,White,2,Emergency,99,194,3,Major,Y,23025.7,4649.15
+Capital Adirond,5,30 to 49,149,F,Black/African American,2,Emergency,251,251,2,Moderate,Y,17747.8,3860.88
+Southern Tier,42,50 to 69,137,M,White,2,Elective,203,301,2,Moderate,N,31913.4,15281.64
+Southern Tier,42,70 or Older,137,F,White,2,Emergency,42,240,3,Major,Y,15439.14,3524.64
+Southern Tier,42,70 or Older,138,F,White,2,Elective,203,302,1,Minor,N,39115.9,18065.49
+Southern Tier,42,70 or Older,149,F,White,2,Emergency,123,113,2,Moderate,Y,7992.04,3342.94
+Southern Tier,42,70 or Older,149,M,White,2,Elective,237,302,1,Minor,N,17513.2,10854.25
+Southern Tier,43,70 or Older,137,M,Other Race,2,Emergency,13,240,2,Moderate,Y,14626.31,4567.59
+Southern Tier,58,0 to 17,137,F,White,2,Newborn,218,640,1,Minor,N,1328.7,382.72
+Southern Tier,58,30 to 49,137,F,White,2,Urgent,195,540,1,Minor,N,9516.7,7287.1
+Southern Tier,58,50 to 69,137,M,White,2,Emergency,112,47,1,Minor,Y,17474.11,9557.43
+Southern Tier,58,50 to 69,137,M,White,2,Emergency,234,135,3,Major,Y,12675.8,3002.67
+Southern Tier,58,50 to 69,137,F,White,2,Emergency,100,190,2,Moderate,Y,23752.88,4991.09
+Southern Tier,58,70 or Older,137,F,White,2,Emergency,123,113,4,Extreme,Y,9517.56,3657.99
+Southern Tier,58,0 to 17,138,F,White,2,Newborn,218,640,1,Minor,N,1466.7,463.91
+Southern Tier,58,18 to 29,138,F,White,2,Urgent,192,560,1,Minor,N,4885.4,4495.83
+Southern Tier,58,0 to 17,139,F,White,2,Newborn,218,640,1,Minor,N,1171.7,363.42
+Southern Tier,58,0 to 17,139,M,White,2,Newborn,218,640,1,Minor,N,1284.7,763.54
+Southern Tier,58,18 to 29,142,F,White,2,Urgent,191,542,1,Minor,N,5403.3,4594.66
+Capital Adirond,146,0 to 17,125,M,White,2,Newborn,218,640,1,Minor,N,4420.69,1816.12
+Capital Adirond,146,70 or Older,125,F,White,2,Emergency,135,249,2,Moderate,Y,5800.94,2608.06
+Western NY,207,30 to 49,140,M,White,2,Urgent,100,174,2,Moderate,N,27973.41,12601.73
+Western NY,207,30 to 49,142,F,White,2,Emergency,151,861,1,Minor,Y,10130.99,4229.36
+Western NY,207,50 to 69,142,F,Black/African American,2,Elective,205,321,1,Minor,N,44303.18,16832.63
+Western NY,207,50 to 69,142,F,Black/African American,2,Elective,143,227,3,Major,N,36193.62,13429.88
+Western NY,207,50 to 69,142,F,Black/African American,2,Emergency,99,199,2,Moderate,Y,8425.96,3625.79
+Western NY,207,50 to 69,142,F,Black/African American,2,Elective,143,227,1,Minor,N,29115.94,10491.57
+Western NY,207,70 or Older,142,M,Black/African American,2,Emergency,155,253,2,Moderate,Y,11609.33,5869.22
+Western NY,207,70 or Older,142,F,Black/African American,2,Emergency,106,201,2,Moderate,Y,11224.71,5074.56
+Western NY,207,50 to 69,143,F,White,2,Elective,203,301,2,Moderate,N,56106.27,18285.55
+Western NY,208,0 to 17,140,M,White,2,Newborn,218,640,1,Minor,N,3215.45,2273.9
+Western NY,208,0 to 17,142,M,White,2,Newborn,218,640,1,Minor,N,3450.23,2450.36
+Western NY,208,0 to 17,142,M,Other Race,2,Newborn,218,633,1,Minor,N,3666.04,2420.24
+Western NY,208,18 to 29,142,F,Other Race,2,Emergency,195,560,2,Moderate,Y,12239.21,8977.33
+Western NY,210,30 to 49,140,M,White,2,Elective,212,301,2,Moderate,N,28866.22,15742.49
+Western NY,210,50 to 69,140,M,White,2,Elective,203,309,2,Moderate,N,20274.32,11980.81
+Western NY,210,50 to 69,142,F,Black/African American,2,Emergency,127,140,2,Moderate,Y,7216.77,3719.37
+Western NY,213,30 to 49,140,F,White,2,Elective,185,560,1,Minor,N,6721.07,3954.18
+Western NY,213,70 or Older,140,F,White,2,Emergency,159,463,2,Moderate,Y,18681.68,7677.28
+Western NY,213,70 or Older,141,M,White,2,Emergency,108,194,2,Moderate,Y,10243.16,4032.15
+Western NY,213,0 to 17,142,F,White,2,Newborn,218,640,1,Minor,N,2720.64,1080.62
+Western NY,213,30 to 49,142,F,Other Race,2,Elective,46,519,1,Minor,N,11472.31,5911.28
+Western NY,213,50 to 69,142,M,White,2,Emergency,100,174,2,Moderate,Y,48619.18,21551.5
+Western NY,213,50 to 69,142,M,White,2,Emergency,103,134,2,Moderate,Y,8908.56,3999.77
+Western NY,213,70 or Older,142,F,White,2,Emergency,116,181,2,Moderate,Y,13510.16,6865.93
+Western NY,216,50 to 69,143,M,White,2,Urgent,42,264,3,Major,N,15594.91,5774.55
+Western NY,218,30 to 49,142,F,White,2,Elective,185,560,2,Moderate,N,6398.59,2942.1
+Central NY,367,70 or Older,130,F,White,2,Emergency,250,249,3,Major,Y,16800.8,4920.92
+Central NY,367,0 to 17,136,F,White,2,Newborn,218,640,1,Minor,N,2137.55,748.53
+Central NY,367,30 to 49,136,M,White,2,Emergency,50,420,2,Moderate,Y,14324.22,3508.67
+Central NY,379,0 to 17,136,F,White,2,Newborn,218,640,1,Minor,N,3033.68,1955.97
+Finger Lakes,393,0 to 17,148,M,White,2,Newborn,218,640,1,Minor,N,5282.77,2256.59
+Finger Lakes,409,30 to 49,144,F,Other Race,2,Elective,58,403,1,Minor,N,19760.2,6971.44
+Finger Lakes,409,30 to 49,144,M,White,2,Emergency,152,282,1,Minor,Y,5150.82,2220.34
+Finger Lakes,409,30 to 49,145,F,Other Race,2,Elective,183,566,1,Minor,N,2968.22,1306.69
+Finger Lakes,471,50 to 69,145,M,White,2,Elective,205,321,2,Moderate,N,26567.61,19301.84
+Finger Lakes,471,18 to 29,146,F,White,2,Elective,195,560,2,Moderate,N,4704.14,5851.05
+Finger Lakes,471,50 to 69,146,M,White,2,Emergency,152,282,2,Moderate,Y,7258.3,2800.17
+Long Island,528,18 to 29,110,F,Other Race,2,Urgent,189,560,1,Minor,N,18952.46,26526.84
+Long Island,528,0 to 17,115,F,White,2,Emergency,128,141,1,Minor,Y,18428.53,10529.65
+Long Island,528,0 to 17,115,F,White,2,Newborn,218,640,1,Minor,N,6091.52,2544.32
+Long Island,528,30 to 49,115,M,Other Race,2,Urgent,145,247,1,Minor,N,11226.17,4099.01
+Long Island,528,30 to 49,115,F,White,2,Urgent,196,560,1,Minor,N,18994.56,26559.03
+Long Island,528,50 to 69,115,M,Other Race,2,Emergency,660,775,2,Moderate,Y,14660.09,4967.32
+Long Island,528,0 to 17,117,M,White,2,Newborn,218,640,1,Minor,N,6335.2,2601.91
+Long Island,528,30 to 49,117,M,White,2,Emergency,54,351,2,Moderate,N,12460.18,4486.18
+Long Island,528,0 to 17,118,M,White,2,Newborn,218,640,1,Minor,N,6091.52,2544.32
+Long Island,551,70 or Older,115,F,Black/African American,2,Emergency,653,757,3,Major,Y,37320.92,7307.77
+Long Island,551,18 to 29,117,F,White,2,Emergency,149,263,1,Minor,Y,38758.2,14059.81
+Long Island,551,50 to 69,117,M,White,2,Emergency,153,253,2,Moderate,Y,13947.95,2798.53
+Long Island,551,50 to 69,117,F,White,2,Emergency,197,383,2,Moderate,Y,19524.72,3975.64
+Western NY,565,0 to 17,140,F,White,2,Newborn,218,640,1,Minor,N,3648.86,1234.2
+Western NY,565,70 or Older,141,F,White,2,Emergency,145,247,2,Moderate,Y,7103.78,2472.59
+Western NY,574,50 to 69,140,F,White,2,Elective,58,403,1,Minor,N,16858.28,6763.41
+Western NY,574,18 to 29,143,F,White,2,Urgent,193,560,2,Moderate,N,6730.3,1072.66
+Central NY,598,18 to 29,134,M,White,2,Emergency,152,282,1,Minor,Y,10286.95,5015.84
+Central NY,636,70 or Older,130,M,White,2,Emergency,117,204,3,Major,Y,6566.34,2648.31
+Central NY,636,0 to 17,131,F,White,2,Newborn,218,640,1,Minor,N,3430,1555.6
+Central NY,636,30 to 49,131,F,Other Race,2,Elective,58,403,1,Minor,N,22016.38,9905.46
+Central NY,636,50 to 69,131,F,White,2,Emergency,153,253,3,Major,Y,9781.69,4136.21
+Central NY,636,0 to 17,132,M,Other Race,2,Newborn,218,640,1,Minor,N,3388,1536.42
+Central NY,636,50 to 69,132,F,White,2,Emergency,83,53,1,Minor,Y,7521.21,3008.64
+Finger Lakes,678,70 or Older,144,M,White,2,Emergency,109,45,3,Major,Y,8300.46,3177.05
+Finger Lakes,678,70 or Older,144,F,White,2,Elective,203,302,2,Moderate,N,30077.93,17061.83
+Hudson Valley,699,0 to 17,109,M,White,2,Newborn,218,640,1,Minor,N,6894.6,980.75
+Hudson Valley,699,18 to 29,109,F,Other Race,2,Urgent,185,560,1,Minor,N,18803.24,6063.92
+Hudson Valley,699,50 to 69,149,M,White,2,Emergency,99,199,1,Minor,Y,22185.24,8532.1
+Hudson Valley,708,30 to 49,127,M,White,2,Emergency,660,775,1,Minor,Y,12806.03,1948.3
+Capital Adirond,746,70 or Older,133,M,White,2,Urgent,155,253,2,Moderate,N,10003.02,4793.74
+Capital Adirond,746,70 or Older,133,F,White,2,Emergency,151,279,3,Major,Y,8712.43,4257
+Capital Adirond,756,50 to 69,123,F,White,2,Emergency,100,190,2,Moderate,Y,24706.2,8504.79
+Hudson Valley,779,30 to 49,109,F,Other Race,2,Emergency,181,560,2,Moderate,N,28074.69,6686.28
+Capital Adirond,829,50 to 69,120,F,White,2,Elective,203,301,2,Moderate,N,57379.67,15211.59
+Capital Adirond,829,30 to 49,123,M,Other Race,2,Emergency,205,347,1,Minor,N,9126.8,2499.35
+Capital Adirond,829,50 to 69,123,M,White,2,Emergency,62,661,1,Minor,N,16385.85,4969.86
+Capital Adirond,829,70 or Older,123,M,White,2,Emergency,50,420,1,Minor,N,7457.62,2461.84
+Capital Adirond,829,50 to 69,142,F,Black/African American,2,Elective,58,952,2,Moderate,N,50633.49,12005.92
+Capital Adirond,848,18 to 29,120,F,White,2,Elective,190,560,1,Minor,N,11233.3,6703.64
+Capital Adirond,848,18 to 29,123,F,Black/African American,2,Elective,191,560,1,Minor,N,9810.35,5914.97
+Capital Adirond,848,30 to 49,123,F,Black/African American,2,Elective,186,540,2,Moderate,N,6268.5,2887.57
+Long Island,885,50 to 69,117,F,Black/African American,2,Emergency,197,364,2,Moderate,Y,22794.08,5037.38
+Long Island,885,50 to 69,117,F,White,2,Emergency,83,53,1,Minor,Y,26283.64,3689.7
+Long Island,885,70 or Older,117,M,Other Race,2,Emergency,122,139,2,Moderate,Y,24287.48,3231.56
+Long Island,896,0 to 17,117,M,Other Race,2,Newborn,218,640,1,Minor,N,9029,4285.71
+Long Island,896,18 to 29,117,M,White,2,Emergency,661,772,1,Minor,Y,13000,2019.88
+Long Island,896,70 or Older,117,F,White,2,Elective,203,302,2,Moderate,N,75390.07,14850.85
+Long Island,896,18 to 29,119,M,White,2,Emergency,661,770,1,Minor,Y,11733,1839.24
+Long Island,925,0 to 17,117,F,Other Race,2,Emergency,122,139,1,Minor,Y,16497,4026.59
+Long Island,925,0 to 17,117,F,White,2,Newborn,218,640,2,Moderate,N,10888,2093.26
+Long Island,925,30 to 49,117,F,White,2,Urgent,187,560,1,Minor,N,20884,4927.59
+Long Island,925,30 to 49,117,F,White,2,Emergency,149,263,1,Minor,Y,30030.67,7690.25
+Long Island,925,30 to 49,117,F,White,2,Emergency,155,254,3,Major,Y,23248,4022.84
+Long Island,925,30 to 49,117,F,White,2,Elective,192,560,1,Minor,N,20520,4734.07
+Long Island,925,50 to 69,117,M,White,2,Emergency,106,201,2,Moderate,Y,28493,4902.92
+Hudson Valley,1061,50 to 69,105,M,Black/African American,2,Emergency,153,241,2,Moderate,N,27617,10045.22
+Hudson Valley,1072,18 to 29,104,M,White,2,Emergency,197,383,1,Minor,N,12768,6997.12
+New York City,1168,0 to 17,104,M,Other Race,2,Newborn,218,640,2,Moderate,N,10473.27,1886.47
+New York City,1168,70 or Older,104,F,Black/African American,2,Emergency,237,182,3,Major,Y,51557.01,12127.35
+New York City,1169,50 to 69,104,M,Black/African American,2,Emergency,660,280,3,Major,Y,26429.31,4945.74
+New York City,1169,50 to 69,104,M,Other Race,2,Emergency,58,143,2,Moderate,Y,25318.61,5515.43
+New York City,1169,50 to 69,104,M,Other Race,2,Emergency,244,351,2,Moderate,N,39640.51,8614.34
+New York City,1288,0 to 17,112,F,Black/African American,2,Newborn,218,640,1,Minor,N,11295.64,1829.86
+New York City,1288,30 to 49,112,F,Black/African American,2,Emergency,195,560,2,Moderate,N,14048.06,2784.8
+New York City,1288,30 to 49,112,F,Other Race,2,Elective,186,560,1,Minor,N,16096.84,3017.86
+New York City,1306,18 to 29,112,F,White,2,Emergency,193,560,1,Minor,Y,14243.95,6818.6
+New York City,1306,30 to 49,112,F,Multi-racial,2,Emergency,192,560,1,Minor,Y,15401.95,7108.7
+New York City,1320,0 to 17,112,M,Black/African American,2,Emergency,128,141,1,Minor,Y,8956,13752.79
+New York City,1320,18 to 29,112,F,Black/African American,2,Emergency,181,566,2,Moderate,Y,9855,3284.91
+New York City,1320,50 to 69,112,F,Black/African American,2,Emergency,135,249,2,Moderate,Y,12239,7612.27
+New York City,1320,70 or Older,112,F,Black/African American,2,Urgent,100,174,2,Moderate,N,38086.18,15969.57
+New York City,1437,30 to 49,100,F,White,2,Emergency,190,560,1,Minor,Y,23094.07,6314.49
+New York City,1437,30 to 49,100,F,Other Race,2,Emergency,190,560,1,Minor,Y,19303.98,5029.8
+New York City,1437,70 or Older,100,F,Other Race,2,Emergency,122,139,1,Minor,Y,20970.66,5158.19
+New York City,1437,70 or Older,100,F,Other Race,2,Emergency,123,139,3,Major,Y,22968.93,5810.82
+New York City,1437,30 to 49,104,F,Multi-racial,2,Elective,191,560,1,Minor,N,18306.03,4639.16
+New York City,1437,0 to 17,111,F,Other Race,2,Newborn,218,640,1,Minor,N,11577.1,673.81
+New York City,1437,0 to 17,112,F,Other Race,2,Newborn,218,640,2,Moderate,N,11748.97,711.93
+New York City,1437,18 to 29,112,F,Other Race,2,Elective,190,560,1,Minor,N,18050.68,4576.03
+New York City,1437,30 to 49,116,M,Other Race,2,Elective,205,304,1,Minor,N,83715.73,36114.43
+New York City,1437,30 to 49,149,F,White,2,Emergency,660,775,2,Moderate,Y,22607.1,5754.8
+New York City,1439,70 or Older,100,F,Black/African American,2,Urgent,197,364,2,Moderate,Y,46892.47,22638.97
+New York City,1439,70 or Older,100,F,Black/African American,2,Emergency,159,463,3,Major,Y,19373.94,5547.58
+New York City,1439,0 to 17,112,M,White,2,Newborn,218,640,1,Minor,N,8238.2,886.18
+New York City,1439,0 to 17,112,F,Other Race,2,Newborn,218,640,1,Minor,N,8280,865.88
+New York City,1439,0 to 17,112,M,White,2,Newborn,218,640,1,Minor,N,8085,848.69
+New York City,1439,0 to 17,112,M,White,2,Newborn,218,639,2,Moderate,N,17855.9,6699.8
+New York City,1439,18 to 29,112,F,White,2,Urgent,191,560,2,Moderate,N,19466.9,9756.61
+New York City,1439,50 to 69,112,M,White,2,Emergency,657,754,1,Minor,Y,9776.1,2911.86
+New York City,1456,0 to 17,100,F,White,2,Newborn,218,640,1,Minor,N,8968.2,1167.9
+New York City,1456,18 to 29,100,F,White,2,Elective,185,560,1,Minor,N,19880.3,7621.2
+New York City,1456,50 to 69,100,M,Black/African American,2,Emergency,118,197,2,Moderate,Y,17521.76,5955.67
+New York City,1456,50 to 69,103,M,White,2,Emergency,101,175,2,Moderate,Y,45582.31,14195.44
+New York City,1456,30 to 49,104,M,Other Race,2,Urgent,121,182,3,Major,N,83954.29,37821.92
+New York City,1456,0 to 17,112,M,White,2,Newborn,218,640,1,Minor,N,9900.2,1595.55
+New York City,1456,18 to 29,112,F,Other Race,2,Emergency,250,249,2,Moderate,Y,19157.72,6433.85
+New York City,1456,30 to 49,112,F,White,2,Elective,238,224,2,Moderate,N,23808.43,9784.69
+New York City,1456,18 to 29,114,F,Other Race,2,Elective,47,513,1,Minor,N,27013.61,10527.31
+New York City,1456,30 to 49,125,F,White,2,Emergency,155,254,1,Minor,Y,26606.62,8749.5
+New York City,1456,30 to 49,149,F,White,2,Elective,191,560,1,Minor,N,22347.25,8549.02
+New York City,1458,0 to 17,100,M,White,2,Newborn,218,640,1,Minor,N,11682.68,713.69
+New York City,1458,0 to 17,100,F,Multi-racial,2,Newborn,218,633,1,Minor,N,11554.35,1070.6
+New York City,1458,30 to 49,142,F,Black/African American,2,Elective,58,403,1,Minor,N,49375.54,15295.73
+New York City,1463,0 to 17,112,M,White,2,Newborn,218,640,1,Minor,N,14719.82,5007.9
+New York City,1463,0 to 17,112,M,Multi-racial,2,Newborn,218,640,1,Minor,N,14832.82,5028.29
+New York City,1464,18 to 29,100,F,Multi-racial,2,Emergency,123,113,2,Moderate,Y,25414.93,6239.24
+New York City,1464,30 to 49,100,F,Multi-racial,2,Emergency,661,773,2,Moderate,Y,21710.51,5470.82
+New York City,1464,50 to 69,100,M,White,2,Emergency,50,420,2,Moderate,Y,22804.74,5805.47
+New York City,1464,0 to 17,104,F,Other Race,2,Newborn,218,640,1,Minor,N,11707.01,721.35
+New York City,1464,70 or Older,104,F,Black/African American,2,Emergency,99,194,2,Moderate,Y,33211.49,8888.71
+New York City,1464,0 to 17,114,M,Other Race,2,Newborn,218,640,1,Minor,N,11557.6,691.58
+New York City,1464,0 to 17,125,M,Multi-racial,2,Emergency,133,207,2,Moderate,N,20415.55,4875.06
+New York City,1464,0 to 17,149,M,White,2,Emergency,125,138,1,Minor,Y,23371.49,5675.4
+New York City,1464,30 to 49,149,F,White,2,Emergency,185,560,1,Minor,N,21638.77,5393.77
+New York City,1466,30 to 49,100,M,Black/African American,2,Emergency,99,199,3,Major,Y,33286.11,10271.87
+New York City,1466,70 or Older,100,F,White,2,Emergency,153,253,2,Moderate,Y,28225.99,8411.32
+New York City,1466,50 to 69,104,M,White,2,Elective,203,302,1,Minor,N,78344.51,28734.03
+New York City,1466,0 to 17,112,M,Black/African American,2,Newborn,218,639,1,Minor,N,9119.83,3731.89
+New York City,1466,30 to 49,112,F,White,2,Urgent,193,560,1,Minor,N,20920.04,5028.53
+New York City,1469,50 to 69,100,M,Black/African American,2,Emergency,660,775,2,Moderate,Y,27107.47,6972.41
+New York City,1469,70 or Older,100,M,White,2,Emergency,93,111,2,Moderate,Y,22419.75,7689.46
+New York City,1469,70 or Older,100,F,White,2,Emergency,233,57,2,Moderate,Y,27265.59,7154.55
+New York City,1637,50 to 69,111,F,White,2,Emergency,59,663,2,Moderate,Y,15061.29,4684.23
+New York City,1637,0 to 17,113,F,Other Race,2,Newborn,218,640,1,Minor,N,10455.29,734.93
+New York City,1637,0 to 17,113,M,White,2,Newborn,218,640,1,Minor,N,10612.21,787.07
+New York City,1637,0 to 17,113,F,Other Race,2,Newborn,218,640,2,Moderate,N,10489.85,745.48
+New York City,1637,30 to 49,113,F,Other Race,2,Emergency,195,560,1,Minor,Y,16248.51,6757.97
+New York City,1637,70 or Older,113,M,Other Race,2,Emergency,2,720,3,Major,Y,34506.56,11607.59
+New York City,3058,18 to 29,104,F,Other Race,2,Emergency,3,724,1,Minor,Y,20340.11,4199.5
+New York City,3058,50 to 69,104,M,Black/African American,2,Emergency,61,662,3,Major,Y,44007.81,11918.56
+New York City,3058,70 or Older,104,F,Black/African American,2,Emergency,25,512,2,Moderate,N,53594.76,10226.78
+Western NY,3067,0 to 17,140,M,White,2,Newborn,218,640,2,Moderate,N,3299.25,1586.71
+Western NY,3067,70 or Older,140,M,White,2,Emergency,135,248,3,Major,Y,9588.49,4635.35
+Western NY,3067,30 to 49,141,F,White,2,Elective,195,560,2,Moderate,N,6103.1,4448.25
+Western NY,3067,0 to 17,142,M,White,2,Newborn,218,640,2,Moderate,N,3378.23,1623.06
+Western NY,3067,70 or Older,142,F,White,2,Emergency,2,720,2,Moderate,Y,5113.03,2478.77
+New York City,3975,0 to 17,100,M,Other Race,2,Newborn,218,640,1,Minor,N,11504.48,663.94
+New York City,3975,18 to 29,104,F,Other Race,2,Emergency,193,560,2,Moderate,N,21928.29,5609.71
+New York City,3975,18 to 29,104,F,Other Race,2,Emergency,193,560,1,Minor,N,25229.75,6679.62
+New York City,3975,50 to 69,104,F,Other Race,2,Emergency,153,253,3,Major,Y,29712.43,8011.71
+New York City,3975,70 or Older,104,M,White,2,Emergency,157,469,2,Moderate,Y,29373.5,7142.53
+Capital Adirond,4,18 to 29,121,M,White,1,Emergency,142,225,1,Minor,Y,15611.45,5658.59
+Capital Adirond,4,70 or Older,122,F,Black/African American,1,Emergency,135,249,2,Moderate,Y,13310.8,3316.97
+Capital Adirond,5,30 to 49,120,M,White,1,Elective,203,301,2,Moderate,N,23297.35,8991.95
+Capital Adirond,5,30 to 49,122,M,White,1,Emergency,660,770,1,Minor,Y,4178,1131.17
+Capital Adirond,5,70 or Older,122,M,White,1,Emergency,153,254,4,Extreme,Y,16570.15,3183.71
+Western NY,39,30 to 49,147,F,White,1,Elective,195,540,1,Minor,N,9393.5,3669.28
+Western NY,39,70 or Older,148,M,White,1,Emergency,99,194,2,Moderate,Y,4744.25,1396.59
+Western NY,39,0 to 17,149,M,White,1,Newborn,218,640,1,Minor,N,2220,818.48
+Southern Tier,42,50 to 69,137,F,White,1,Elective,203,301,2,Moderate,N,29533.5,15075
+Southern Tier,42,70 or Older,138,F,White,1,Elective,203,302,1,Minor,N,36288.3,17026.69
+Southern Tier,43,18 to 29,138,F,Other Race,1,Emergency,136,114,1,Minor,Y,9193.42,2396.71
+Southern Tier,58,0 to 17,137,F,White,1,Urgent,195,560,2,Moderate,N,7449.9,3924.24
+Southern Tier,58,50 to 69,137,M,Black/African American,1,Emergency,100,174,2,Moderate,Y,39090.6,7853.61
+Southern Tier,58,18 to 29,149,F,White,1,Emergency,197,383,2,Moderate,Y,4646.1,1863.59
+Capital Adirond,146,70 or Older,125,F,White,1,Elective,203,315,2,Moderate,N,45058.42,14725.37
+Western NY,207,50 to 69,140,M,White,1,Emergency,112,47,2,Moderate,Y,18691.37,4402.5
+Western NY,207,70 or Older,141,F,White,1,Elective,97,161,1,Minor,N,77371.82,34687.42
+Western NY,207,70 or Older,142,F,Black/African American,1,Emergency,2,720,3,Major,Y,10178.49,3483.4
+Western NY,207,70 or Older,142,F,Black/African American,1,Emergency,2,720,4,Extreme,Y,16732.67,6310.16
+Western NY,207,70 or Older,142,F,White,1,Elective,110,24,2,Moderate,N,16358.84,7677.48
+Western NY,207,50 to 69,143,F,White,1,Elective,110,24,2,Moderate,N,14330.1,6992.14
+Western NY,207,50 to 69,147,F,White,1,Elective,205,321,2,Moderate,N,38806.16,13376.71
+Western NY,208,0 to 17,141,F,White,1,Emergency,50,420,2,Moderate,Y,5693.26,2632.32
+Western NY,208,0 to 17,142,F,Other Race,1,Emergency,122,139,2,Moderate,Y,5036.86,2380.91
+Western NY,208,0 to 17,142,M,Black/African American,1,Emergency,128,141,1,Minor,Y,5759.6,2790.81
+Western NY,208,0 to 17,142,M,Black/African American,1,Emergency,83,53,1,Minor,Y,4580.94,2235.06
+Western NY,208,30 to 49,142,F,Black/African American,1,Elective,190,566,2,Moderate,Y,9299.58,3276.23
+Western NY,210,30 to 49,141,M,White,1,Elective,238,850,1,Minor,N,22789.91,12340.57
+Western NY,210,50 to 69,142,M,White,1,Emergency,55,425,2,Moderate,Y,5744.86,2120.8
+Western NY,213,50 to 69,140,F,White,1,Elective,143,227,1,Minor,N,18217.53,10340.91
+Western NY,213,50 to 69,141,M,White,1,Emergency,6,283,2,Moderate,Y,9816.5,3453.3
+Western NY,213,50 to 69,141,M,White,1,Emergency,122,139,2,Moderate,Y,7177.86,3019.18
+Western NY,213,70 or Older,141,M,White,1,Elective,115,182,3,Major,N,24076.28,12414.19
+Western NY,216,30 to 49,140,F,White,1,Urgent,153,253,2,Moderate,N,8304.01,2686.95
+Western NY,218,30 to 49,142,F,White,1,Elective,58,403,1,Minor,N,14403.38,7516.45
+Central NY,367,0 to 17,136,M,White,1,Newborn,218,640,1,Minor,N,2988.92,933.85
+Central NY,401,50 to 69,134,F,White,1,Elective,203,302,2,Moderate,N,20544.75,10506.12
+Finger Lakes,409,30 to 49,144,F,White,1,Elective,24,362,2,Moderate,N,25301.42,11104.14
+Finger Lakes,409,30 to 49,145,F,White,1,Elective,192,560,1,Minor,N,4615.49,2640.44
+Finger Lakes,409,50 to 69,145,M,White,1,Elective,203,301,1,Minor,N,25111.26,10641.99
+Finger Lakes,409,50 to 69,145,F,Black/African American,1,Elective,205,304,1,Minor,N,33022.77,14111.19
+Finger Lakes,409,70 or Older,146,F,Black/African American,1,Urgent,122,139,3,Major,N,1250,572.49
+Finger Lakes,471,30 to 49,144,F,White,1,Elective,192,560,1,Minor,N,4289.48,4002.25
+Finger Lakes,471,70 or Older,144,F,White,1,Elective,203,301,2,Moderate,N,20909.41,16314.92
+Long Island,528,0 to 17,115,F,Other Race,1,Emergency,123,113,2,Moderate,N,7003.28,2373.59
+Long Island,528,30 to 49,115,M,White,1,Emergency,660,770,1,Minor,N,5221.15,1682.82
+Long Island,528,70 or Older,115,F,Black/African American,1,Emergency,55,249,2,Moderate,N,7722.92,2688.32
+Long Island,528,18 to 29,117,F,White,1,Emergency,155,254,1,Minor,Y,9907.02,6400.68
+Long Island,528,18 to 29,117,F,White,1,Emergency,197,383,1,Minor,Y,8633.77,3703.99
+Long Island,528,70 or Older,118,F,White,1,Emergency,128,141,2,Moderate,Y,6312.9,2546.33
+Western NY,574,50 to 69,140,M,White,1,Emergency,650,755,1,Minor,Y,4212.43,1642.61
+Western NY,574,50 to 69,141,M,Other Race,1,Emergency,117,204,2,Moderate,Y,9304.55,4019.09
+Western NY,574,70 or Older,141,M,White,1,Elective,203,322,1,Minor,N,26890.76,15664.6
+Central NY,598,30 to 49,133,F,White,1,Emergency,160,446,1,Minor,Y,17314.6,4737.32
+Central NY,598,50 to 69,134,F,White,1,Elective,203,301,2,Moderate,N,31277.1,12462.9
+Central NY,630,30 to 49,130,F,White,1,Elective,205,321,1,Minor,N,23034.74,8932.82
+Central NY,636,70 or Older,132,F,White,1,Emergency,127,140,1,Minor,Y,5031.36,2331.74
+Finger Lakes,678,30 to 49,144,M,Black/African American,1,Emergency,95,52,3,Major,Y,4090.42,1549.92
+Finger Lakes,678,50 to 69,144,M,White,1,Emergency,106,201,2,Moderate,Y,6666.16,1886.6
+Hudson Valley,699,0 to 17,109,F,White,1,Emergency,197,383,1,Minor,Y,7042.72,1657.15
+Hudson Valley,699,30 to 49,109,F,Black/African American,1,Elective,58,403,2,Moderate,N,26961.4,9827.26
+Hudson Valley,699,50 to 69,109,M,White,1,Emergency,153,241,1,Minor,Y,13876.46,5673.42
+Hudson Valley,699,70 or Older,109,F,White,1,Emergency,27,530,4,Extreme,Y,5675.73,1402.65
+Hudson Valley,708,30 to 49,109,F,White,1,Elective,58,403,1,Minor,N,65916.27,13025.04
+Capital Adirond,746,0 to 17,133,F,White,1,Newborn,218,640,1,Minor,N,596.37,248.02
+Hudson Valley,779,30 to 49,109,M,White,1,Emergency,122,139,1,Minor,Y,24359.63,3750.99
+Capital Adirond,829,30 to 49,120,M,Other Race,1,Emergency,238,721,2,Moderate,N,4127.05,1305.49
+Capital Adirond,829,70 or Older,120,M,White,1,Elective,203,322,1,Minor,N,49959.35,12858.87
+Capital Adirond,829,70 or Older,120,F,White,1,Emergency,127,140,2,Moderate,N,6464.45,1676.69
+Capital Adirond,829,70 or Older,120,M,White,1,Urgent,101,175,1,Minor,N,2412.55,871.18
+Long Island,885,70 or Older,119,F,Black/African American,1,Emergency,138,242,1,Minor,Y,21309.9,4673.48
+Long Island,896,50 to 69,119,F,White,1,Elective,58,403,1,Minor,N,46614.29,12062.48
+Long Island,925,0 to 17,117,M,Other Race,1,Emergency,125,138,1,Minor,Y,12101,2832.49
+Long Island,925,18 to 29,117,F,Other Race,1,Urgent,181,560,2,Moderate,N,19606,2661.3
+Long Island,925,30 to 49,117,M,Other Race,1,Emergency,229,316,1,Minor,Y,45253.53,9301.76
+Long Island,925,30 to 49,117,F,White,1,Emergency,123,113,2,Moderate,Y,20574.6,3155.61
+Long Island,925,50 to 69,117,M,White,1,Emergency,100,174,1,Minor,Y,66715,11442.4
+Long Island,943,30 to 49,117,M,White,1,Emergency,197,383,1,Minor,Y,13906,2670.13
+Long Island,943,50 to 69,117,M,White,1,Emergency,42,41,2,Moderate,Y,23884,4532.96
+Long Island,943,70 or Older,117,M,White,1,Emergency,2,720,4,Extreme,Y,42693,6399.06
+Hudson Valley,1072,70 or Older,108,F,White,1,Emergency,138,243,2,Moderate,N,7335,3779.16
+New York City,1164,50 to 69,104,M,Other Race,1,Elective,661,770,2,Moderate,N,3991.26,3452.44
+New York City,1168,18 to 29,104,M,Black/African American,1,Emergency,135,249,1,Minor,Y,23161.45,3182.11
+New York City,1168,50 to 69,104,M,Black/African American,1,Emergency,661,816,1,Minor,Y,27112.62,5477.42
+New York City,1169,50 to 69,104,M,Other Race,1,Emergency,50,420,1,Minor,Y,11182.63,2291.79
+New York City,1169,50 to 69,104,F,Other Race,1,Emergency,142,225,1,Minor,Y,32830.78,5397.22
+New York City,1169,0 to 17,108,M,Other Race,1,Emergency,154,249,1,Minor,Y,13989.5,3305.83
+New York City,1288,50 to 69,112,M,Other Race,1,Emergency,117,207,1,Minor,Y,9847.24,1868.58
+New York City,1288,50 to 69,112,F,Black/African American,1,Urgent,24,362,1,Minor,N,29320.71,8917.4
+New York City,1288,50 to 69,112,M,Other Race,1,Emergency,154,249,3,Major,Y,16908.96,2810.32
+New York City,1306,0 to 17,112,F,Black/African American,1,Emergency,83,53,1,Minor,Y,5875.87,3033.74
+New York City,1306,30 to 49,112,F,Black/African American,1,Emergency,181,546,2,Moderate,N,21595.25,10824.31
+New York City,1306,50 to 69,112,F,Other Race,1,Emergency,114,181,2,Moderate,N,5550.62,1716.35
+New York City,1320,0 to 17,112,M,Black/African American,1,Emergency,125,138,1,Minor,Y,5361,7347.08
+New York City,1320,0 to 17,112,M,Black/African American,1,Urgent,237,443,2,Moderate,Y,9062,9022.28
+New York City,1320,70 or Older,112,F,Black/African American,1,Emergency,59,663,1,Minor,Y,8263,4683.09
+New York City,1437,70 or Older,100,M,Other Race,1,Emergency,231,347,2,Moderate,Y,14461.85,3980.07
+New York City,1439,50 to 69,100,M,Other Race,1,Elective,29,480,1,Minor,N,34008.01,10082.33
+New York City,1439,18 to 29,112,F,White,1,Urgent,193,560,2,Moderate,N,11704.6,6886.42
+New York City,1439,30 to 49,114,M,Black/African American,1,Emergency,238,722,1,Minor,N,12633.76,2693.52
+New York City,1456,30 to 49,100,F,Other Race,1,Emergency,138,242,3,Major,Y,17244.3,6031.51
+New York City,1456,50 to 69,100,F,Other Race,1,Elective,205,321,2,Moderate,N,43344.92,21331.68
+New York City,1456,18 to 29,104,F,Other Race,1,Elective,58,403,1,Minor,N,23530.94,10994.49
+New York City,1456,50 to 69,108,M,Black/African American,1,Elective,29,480,1,Minor,N,32948.09,14760.58
+New York City,1456,70 or Older,113,M,White,1,Elective,101,175,1,Minor,N,57903.95,18685.53
+New York City,1456,50 to 69,116,M,Black/African American,1,Emergency,201,344,2,Moderate,Y,9393.36,3092.18
+New York City,1456,0 to 17,149,M,White,1,Newborn,218,640,1,Minor,N,5028.2,702.36
+New York City,1458,0 to 17,112,M,White,1,Newborn,218,640,1,Minor,N,6140.19,515.55
+New York City,1458,50 to 69,112,F,Other Race,1,Emergency,246,722,2,Moderate,Y,17823.88,4284.16
+New York City,1458,30 to 49,149,F,Other Race,1,Elective,14,229,3,Major,N,26910.69,8089.16
+New York City,1464,18 to 29,100,F,White,1,Elective,58,403,1,Minor,N,51109.53,14026.1
+New York City,1464,50 to 69,100,M,Other Race,1,Emergency,159,463,1,Minor,Y,11873.65,2979.62
+New York City,1464,0 to 17,104,M,White,1,Emergency,230,342,1,Minor,Y,13270.92,3708.71
+New York City,1464,30 to 49,104,M,Other Race,1,Emergency,118,197,2,Moderate,Y,12562.37,3338.68
+New York City,1464,70 or Older,104,F,Other Race,1,Emergency,207,340,1,Minor,Y,14279.91,3924.61
+New York City,1464,70 or Older,105,M,White,1,Elective,96,175,4,Extreme,N,134283.17,67398.31
+New York City,1464,0 to 17,107,M,White,1,Emergency,56,131,2,Moderate,Y,14367.97,3569.08
+New York City,1466,0 to 17,100,M,White,1,Newborn,218,640,1,Minor,N,4685,1903.87
+New York City,1466,0 to 17,100,M,White,1,Urgent,222,640,2,Moderate,N,11461.1,4750.53
+New York City,1466,30 to 49,100,F,Black/African American,1,Urgent,660,772,1,Minor,N,4150.65,541.39
+New York City,1466,30 to 49,100,F,White,1,Emergency,184,560,2,Moderate,N,12770.22,3034.55
+New York City,1469,50 to 69,100,F,White,1,Elective,58,403,1,Minor,N,36697.72,19217.52
+New York City,1469,50 to 69,100,M,White,1,Emergency,153,254,1,Minor,Y,16575.75,5089.18
+New York City,1637,18 to 29,113,M,Other Race,1,Emergency,147,226,1,Minor,Y,17804.44,5174.28
+New York City,1637,30 to 49,113,F,White,1,Emergency,161,465,2,Moderate,Y,12448.76,3000.87
+New York City,1637,50 to 69,113,F,Other Race,1,Emergency,42,41,3,Major,Y,10932.18,2829.76
+New York City,3058,50 to 69,104,F,Black/African American,1,Emergency,149,263,2,Moderate,N,29622.2,6916.91
+New York City,3058,50 to 69,104,M,Other Race,1,Emergency,2,710,3,Major,Y,54972.18,8826.16
+New York City,3058,50 to 69,104,F,White,1,Emergency,55,425,3,Major,Y,11885.75,1901.47
+New York City,3058,70 or Older,104,M,Other Race,1,Emergency,245,204,1,Minor,Y,36554.7,8872.3
+Western NY,3067,0 to 17,140,F,White,1,Newborn,218,640,1,Minor,N,1747.92,817.23
+Western NY,3067,70 or Older,140,F,White,1,Emergency,131,133,3,Major,Y,6043.6,2460.05
+Western NY,3067,70 or Older,142,F,White,1,Emergency,159,463,2,Moderate,Y,5926.82,2135.19
